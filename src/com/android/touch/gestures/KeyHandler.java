@@ -360,7 +360,7 @@ public class KeyHandler implements DeviceKeyHandler {
             final boolean enabled = Settings.System.getInt(mContext.getContentResolver(),
                     Settings.System.TOUCHSCREEN_GESTURE_HAPTIC_FEEDBACK, 1) != 0;
             if (enabled) {
-                mVibrator.vibrate(VibrationEffect.get(VibrationEffect.EFFECT_CLICK));
+                mVibrator.vibrate(VibrationEffect.get(VibrationEffect.EFFECT_HEAVY_CLICK));
             }
         }
     }
