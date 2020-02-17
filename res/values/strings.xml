@@ -41,6 +41,7 @@
     <string name="touchscreen_gesture_letter_v_title">Draw the letter \"V\"</string>
     <string name="touchscreen_gesture_letter_w_title">Draw the letter \"W\"</string>
     <string name="touchscreen_gesture_letter_z_title">Draw the letter \"Z\"</string>
+    <string name="touchscreen_gesture_single_tap_title">Single tap</string>
 
     <!-- Gesture: Stylus gestures -->
     <string name="touchscreen_gesture_swipe_up_stylus_title">Swipe up with the stylus</string>
@@ -62,5 +63,6 @@
     <string name="touchscreen_gesture_action_next_track">Play the next music track</string>
     <string name="touchscreen_gesture_action_volume_down">Lower media volume</string>
     <string name="touchscreen_gesture_action_volume_up">Raise media volume</string>
+    <string name="touchscreen_gesture_action_ambient_display">Show ambient display</string>
 
 </resources>
