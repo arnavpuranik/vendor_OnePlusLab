@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2019 Havoc-OS
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Gestures: Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">टचस्क्रीन इशारे</string>
+    <string name="touchscreen_gesture_settings_summary">त्वरित कार्रवाई के लिए विभिन्न टच स्क्रीन इशारे प्रयोग करें</string>
+    <string name="touchscreen_gestures_haptic_feedback_title">स्पर्श प्रतिक्रिया</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">टचस्क्रीन इशारे पर कंपन करें</string>
+    <string name="touchscreen_gesture_two_finger_down_swipe_title">दो उंगलियों से नीचे स्वाइप करें</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_title">दो उंगलियों से ऊपर स्वाइप करें</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">होम बटन से ऊपर स्वाइप करें</string>
+    <string name="touchscreen_gesture_one_finger_down_swipe_title">एक उंगली से नीचे स्वाइप करें</string>
+    <string name="touchscreen_gesture_one_finger_left_swipe_title">एक उंगली से बाएं स्वाइप करें</string>
+    <string name="touchscreen_gesture_one_finger_right_swipe_title">एक उंगली से दाएं स्वाइप करें</string>
+    <string name="touchscreen_gesture_up_arrow_title">\"^\" बनाएं</string>
+    <string name="touchscreen_gesture_down_arrow_title">\"v\" बनाएं</string>
+    <string name="touchscreen_gesture_left_arrow_title">\"&lt;\" बनाएं</string>
+    <string name="touchscreen_gesture_right_arrow_title">\"&gt;\" बनाएं</string>
+    <string name="touchscreen_gesture_letter_c_title">\"C\" बनाएं</string>
+    <string name="touchscreen_gesture_letter_e_title">\"e\" बनाएं</string>
+    <string name="touchscreen_gesture_letter_o_title">\"O\" बनाएं</string>
+    <string name="touchscreen_gesture_letter_m_title">\"M\" बनाएं</string>
+    <string name="touchscreen_gesture_letter_s_title">\"S\" बनाएं</string>
+    <string name="touchscreen_gesture_letter_v_title">\"V\" बनाएं</string>
+    <string name="touchscreen_gesture_letter_w_title">\"W\" बनाएं</string>
+    <string name="touchscreen_gesture_letter_z_title">\"Z\" बनाएं</string>
+    <string name="touchscreen_gesture_single_tap_title">एक बार स्पर्श</string>
+    <string name="touchscreen_gesture_double_tap_title">दो बार स्पर्श</string>
+    <!-- Gesture: Stylus gestures -->
+    <string name="touchscreen_gesture_swipe_up_stylus_title">स्टाइलस से ऊपर स्वाइप करें</string>
+    <string name="touchscreen_gesture_swipe_down_stylus_title">स्टाइलस से नीचे स्वाइप करें</string>
+    <string name="touchscreen_gesture_swipe_left_stylus_title">स्टाइलस से बाएं स्वाइप करें</string>
+    <string name="touchscreen_gesture_swipe_right_stylus_title">स्टाइलस से दाएं स्वाइप करें</string>
+    <string name="touchscreen_gesture_long_press_stylus_title">स्टाइलस से लंबा दबाएं</string>
+    <string name="touchscreen_gesture_action_dialog_title">इशारों के कार्य</string>
+    <string name="touchscreen_gesture_action_do_nothing">कुछ न करें</string>
+    <string name="touchscreen_gesture_action_flashlight">फ़्लैशलाइट की स्थिति बदलें</string>
+    <string name="touchscreen_gesture_action_camera">कैमरा खोलें</string>
+    <string name="touchscreen_gesture_action_browser">ब्राउज़र खोलें</string>
+    <string name="touchscreen_gesture_action_dialer">डायलर खोलें</string>
+    <string name="touchscreen_gesture_action_email">अपने ईमेल देखें</string>
+    <string name="touchscreen_gesture_action_messages">अपने संदेश देखें</string>
+    <string name="touchscreen_gesture_action_play_pause_music">संगीत चालू या बंद करें</string>
+    <string name="touchscreen_gesture_action_previous_track">पिछला गाना चलाएं</string>
+    <string name="touchscreen_gesture_action_next_track">अगला गाना चलाएं</string>
+    <string name="touchscreen_gesture_action_volume_down">आवाज़ कम करें</string>
+    <string name="touchscreen_gesture_action_volume_up">आवाज़ बढ़ाएं</string>
+    <string name="touchscreen_gesture_action_ambient_display">एम्बिएंट डिस्प्ले दिखाएं</string>
+    <string name="touchscreen_gesture_action_wake_device">फोन चालू करें</string>
+</resources>

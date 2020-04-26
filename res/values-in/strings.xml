@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2019 Havoc-OS
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Gestures: Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">Gestur layar sentuh</string>
+    <string name="touchscreen_gesture_settings_summary">Melakukan berbagai gerakan layar sentuh untuk tindakan cepat</string>
+    <string name="touchscreen_gestures_haptic_feedback_title">Getaran balik</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">Bergetar ketika gerakan layar sentuh terdeteksi</string>
+    <string name="touchscreen_gesture_two_finger_down_swipe_title">Usap ke bawah dengan dua jari</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_title">Usap ke atas dengan satu jari</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Usap ke atas dari tombol home</string>
+    <string name="touchscreen_gesture_one_finger_down_swipe_title">Usap ke bawah dengan satu jari</string>
+    <string name="touchscreen_gesture_one_finger_left_swipe_title">Usap ke kiri dengan satu jari</string>
+    <string name="touchscreen_gesture_one_finger_right_swipe_title">Usap ke kanan dengan satu jari</string>
+    <string name="touchscreen_gesture_up_arrow_title">Gambar \"Λ\"</string>
+    <string name="touchscreen_gesture_down_arrow_title">Gambar \"V\"</string>
+    <string name="touchscreen_gesture_left_arrow_title">Gambar \"&lt;\"</string>
+    <string name="touchscreen_gesture_right_arrow_title">Gambar \"&gt;\"</string>
+    <string name="touchscreen_gesture_letter_c_title">Gambar huruf \"C\"</string>
+    <string name="touchscreen_gesture_letter_e_title">Gambar huruf \"e\"</string>
+    <string name="touchscreen_gesture_letter_o_title">Gambar huruf \"O\"</string>
+    <string name="touchscreen_gesture_letter_m_title">Gambar huruf \"M\"</string>
+    <string name="touchscreen_gesture_letter_s_title">Gambar huruf \"S\"</string>
+    <string name="touchscreen_gesture_letter_v_title">Gambar huruf \"V\"</string>
+    <string name="touchscreen_gesture_letter_w_title">Gambar huruf \"W\"</string>
+    <string name="touchscreen_gesture_letter_z_title">Gambar huruf \"Z\"</string>
+    <string name="touchscreen_gesture_single_tap_title">Ketuk sekali</string>
+    <string name="touchscreen_gesture_double_tap_title">Ketuk dua kali</string>
+    <!-- Gesture: Stylus gestures -->
+    <string name="touchscreen_gesture_swipe_up_stylus_title">Usap ke atas dengan stylus</string>
+    <string name="touchscreen_gesture_swipe_down_stylus_title">Usap ke bawah dengan stylus</string>
+    <string name="touchscreen_gesture_swipe_left_stylus_title">Usap ke kiri dengan stylus</string>
+    <string name="touchscreen_gesture_swipe_right_stylus_title">Usap ke kanan dengan stylus</string>
+    <string name="touchscreen_gesture_long_press_stylus_title">Tekan lama dengan stylus</string>
+    <string name="touchscreen_gesture_action_dialog_title">Aksi gestur</string>
+    <string name="touchscreen_gesture_action_do_nothing">Tidak melakukan apapun</string>
+    <string name="touchscreen_gesture_action_flashlight">Hidup/matikan senter</string>
+    <string name="touchscreen_gesture_action_camera">Buka kamera</string>
+    <string name="touchscreen_gesture_action_browser">Buka penjelajah</string>
+    <string name="touchscreen_gesture_action_dialer">Buka telepon</string>
+    <string name="touchscreen_gesture_action_email">Lihat email Anda</string>
+    <string name="touchscreen_gesture_action_messages">Lihat pesan Anda</string>
+    <string name="touchscreen_gesture_action_play_pause_music">Putar/Jeda musik</string>
+    <string name="touchscreen_gesture_action_previous_track">Kembali ke trek musik sebelumnya</string>
+    <string name="touchscreen_gesture_action_next_track">Mainkan trek musik berikutnya</string>
+    <string name="touchscreen_gesture_action_volume_down">Turunkan volume media</string>
+    <string name="touchscreen_gesture_action_volume_up">Naikkan volume media</string>
+    <string name="touchscreen_gesture_action_ambient_display">Tampilkan tampilan ambient</string>
+    <string name="touchscreen_gesture_action_wake_device">Bangunkan perangkat</string>
+</resources>

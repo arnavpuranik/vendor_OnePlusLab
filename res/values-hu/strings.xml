@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2019 Havoc-OS
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Gestures: Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">Érintőképernyő kézmozdulat vezérlés</string>
+    <string name="touchscreen_gesture_settings_summary">Különböző képernyő-mozdulatvezérlések végrehajtása a gyors műveletekhez</string>
+    <string name="touchscreen_gestures_haptic_feedback_title">Rezgés visszajelzés</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">Érintőképernyő kézmozdulat észlelésekor rezeg</string>
+    <string name="touchscreen_gesture_two_finger_down_swipe_title">Csúsztatás lefelé két ujjal</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_title">Csúsztatás felfelé egy ujjal</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Csúsztatás felfelé a Kezdőlap gombról</string>
+    <string name="touchscreen_gesture_one_finger_down_swipe_title">Csúsztatás lefelé egy ujjal</string>
+    <string name="touchscreen_gesture_one_finger_left_swipe_title">Csúsztatás balra egy ujjal</string>
+    <string name="touchscreen_gesture_one_finger_right_swipe_title">Csúsztatás jobbra egy ujjal</string>
+    <string name="touchscreen_gesture_up_arrow_title">Rajzoljon egy \"Λ\"-t</string>
+    <string name="touchscreen_gesture_down_arrow_title">Rajzoljon egy \"V\"-t</string>
+    <string name="touchscreen_gesture_left_arrow_title">Rajzoljon egy \"&lt;\" jelet</string>
+    <string name="touchscreen_gesture_right_arrow_title">Rajzoljon egy \"&gt;\" jelet</string>
+    <string name="touchscreen_gesture_letter_c_title">Rajzoljon egy \"C\" betűt</string>
+    <string name="touchscreen_gesture_letter_e_title">Rajzoljon egy \"e\" betűt</string>
+    <string name="touchscreen_gesture_letter_o_title">Rajzoljon egy \"O\" betűt</string>
+    <string name="touchscreen_gesture_letter_m_title">Rajzoljon egy \"M\" betűt</string>
+    <string name="touchscreen_gesture_letter_s_title">Rajzoljon egy \"S\" betűt</string>
+    <string name="touchscreen_gesture_letter_v_title">Rajzoljon egy \"V\" betűt</string>
+    <string name="touchscreen_gesture_letter_w_title">Rajzoljon egy \"W\" betűt</string>
+    <string name="touchscreen_gesture_letter_z_title">Rajzoljon egy \"Z\" betűt</string>
+    <string name="touchscreen_gesture_single_tap_title">Egyszeri érintés</string>
+    <string name="touchscreen_gesture_double_tap_title">Dupla koppintás</string>
+    <!-- Gesture: Stylus gestures -->
+    <string name="touchscreen_gesture_swipe_up_stylus_title">Felfelé csúsztatás az érintőceruzával</string>
+    <string name="touchscreen_gesture_swipe_down_stylus_title">Lefelé csúsztatás az érintőceruzával</string>
+    <string name="touchscreen_gesture_swipe_left_stylus_title">Balra csúsztatás az érintőceruzával</string>
+    <string name="touchscreen_gesture_swipe_right_stylus_title">Jobbra csúsztatás az érintőceruzával</string>
+    <string name="touchscreen_gesture_long_press_stylus_title">Hosszan nyomás az érintőceruzával</string>
+    <string name="touchscreen_gesture_action_dialog_title">Kézmozdulat művelet</string>
+    <string name="touchscreen_gesture_action_do_nothing">Nincs művelet</string>
+    <string name="touchscreen_gesture_action_flashlight">Zseblámpa kapcsolása</string>
+    <string name="touchscreen_gesture_action_camera">Kamera megnyitása</string>
+    <string name="touchscreen_gesture_action_browser">Böngésző megnyitása</string>
+    <string name="touchscreen_gesture_action_dialer">Tárcsázó megnyitása</string>
+    <string name="touchscreen_gesture_action_email">E-mailek megtekintése</string>
+    <string name="touchscreen_gesture_action_messages">Üzenetek megtekintése</string>
+    <string name="touchscreen_gesture_action_play_pause_music">Zene lejátszása/megállítása</string>
+    <string name="touchscreen_gesture_action_previous_track">Előző zeneszámra ugrás</string>
+    <string name="touchscreen_gesture_action_next_track">Következő zeneszámra ugrás</string>
+    <string name="touchscreen_gesture_action_volume_down">Médiahangerő csökkentése</string>
+    <string name="touchscreen_gesture_action_volume_up">Médiahangerő növelése</string>
+    <string name="touchscreen_gesture_action_ambient_display">A Környezeti kijelző megjelenítése</string>
+    <string name="touchscreen_gesture_action_wake_device">Eszköz felébresztése</string>
+</resources>

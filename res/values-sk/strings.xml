@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2019 Havoc-OS
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Gestures: Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">Gestá na obrazovke</string>
+    <string name="touchscreen_gesture_settings_summary">Možnosť spustiť rýchlu akciu pomocou rôzných gest na obrazovce</string>
+    <string name="touchscreen_gestures_haptic_feedback_title">Hmatová odozva</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">Zavibrovať ak je detekované gesto na dotykovej obrazovke</string>
+    <string name="touchscreen_gesture_two_finger_down_swipe_title">Potiahnite nadol dvomi prstami</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_title">Potiahnutie jedným prstom nahor</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Potiahnite prstom nahor od tlačidla Domov</string>
+    <string name="touchscreen_gesture_one_finger_down_swipe_title">Potiahnutie jedným prstom nadol</string>
+    <string name="touchscreen_gesture_one_finger_left_swipe_title">Potiahnutie jedným prstom doľava</string>
+    <string name="touchscreen_gesture_one_finger_right_swipe_title">Potiahnutie jedným prstom doprava</string>
+    <string name="touchscreen_gesture_up_arrow_title">Nakreslite znak \"Λ\"</string>
+    <string name="touchscreen_gesture_down_arrow_title">Nakreslite znak \"V\"</string>
+    <string name="touchscreen_gesture_left_arrow_title">Nakreslite znak \"&lt;\"</string>
+    <string name="touchscreen_gesture_right_arrow_title">Nakreslite znak \"&gt;\"</string>
+    <string name="touchscreen_gesture_letter_c_title">Nakreslite písmeno \"C\"</string>
+    <string name="touchscreen_gesture_letter_e_title">Nakreslite písmeno \"e\"</string>
+    <string name="touchscreen_gesture_letter_o_title">Nakreslite písmeno \"O\"</string>
+    <string name="touchscreen_gesture_letter_m_title">Nakreslite písmeno \"M\"</string>
+    <string name="touchscreen_gesture_letter_s_title">Nakreslite písmeno \"S\"</string>
+    <string name="touchscreen_gesture_letter_v_title">Nakreslite písmeno \"V\"</string>
+    <string name="touchscreen_gesture_letter_w_title">Nakreslite písmeno \"W\"</string>
+    <string name="touchscreen_gesture_letter_z_title">Nakreslite písmeno \"Z\"</string>
+    <string name="touchscreen_gesture_single_tap_title">Jedno klepnutie</string>
+    <string name="touchscreen_gesture_double_tap_title">Dvojité poklepanie</string>
+    <!-- Gesture: Stylus gestures -->
+    <string name="touchscreen_gesture_swipe_up_stylus_title">Potiahnutie dotykovým perom nahor</string>
+    <string name="touchscreen_gesture_swipe_down_stylus_title">Potiahnutie dotykovým perom nadol</string>
+    <string name="touchscreen_gesture_swipe_left_stylus_title">Potiahnutie dotykovým perom vľavo</string>
+    <string name="touchscreen_gesture_swipe_right_stylus_title">Potiahnutie dotykovým perom vpravo</string>
+    <string name="touchscreen_gesture_long_press_stylus_title">Dlhé stlačenie dotykovým perom</string>
+    <string name="touchscreen_gesture_action_dialog_title">Akcie gest</string>
+    <string name="touchscreen_gesture_action_do_nothing">Žiadna akcia</string>
+    <string name="touchscreen_gesture_action_flashlight">Zapnúť/vypnúť baterku</string>
+    <string name="touchscreen_gesture_action_camera">Spustiť fotoaparát</string>
+    <string name="touchscreen_gesture_action_browser">Otvoriť prehliadač</string>
+    <string name="touchscreen_gesture_action_dialer">Spustiť aplikáciu Telefón</string>
+    <string name="touchscreen_gesture_action_email">Zobraziť e-maily</string>
+    <string name="touchscreen_gesture_action_messages">Zobraziť správy</string>
+    <string name="touchscreen_gesture_action_play_pause_music">Prehrať/pozastaviť hudbu</string>
+    <string name="touchscreen_gesture_action_previous_track">Prehrať predchádzajúcu skladbu</string>
+    <string name="touchscreen_gesture_action_next_track">Prehrať nasledujúcu skladbu</string>
+    <string name="touchscreen_gesture_action_volume_down">Zníženie hlasitosti médií</string>
+    <string name="touchscreen_gesture_action_volume_up">Zvýšenie hlasitosti médií</string>
+    <string name="touchscreen_gesture_action_ambient_display">Zobraziť Ambientný displej</string>
+    <string name="touchscreen_gesture_action_wake_device">Prebudiť zariadenie</string>
+</resources>

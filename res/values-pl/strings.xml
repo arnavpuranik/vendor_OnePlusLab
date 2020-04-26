@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2019 Havoc-OS
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Gestures: Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">Gesty ekranowe</string>
+    <string name="touchscreen_gesture_settings_summary">Wykonaj różne gesty ekranowe, aby wykonać szybkie akcje</string>
+    <string name="touchscreen_gestures_haptic_feedback_title">Wibracje przy naciśnięciu</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">Wibruj po wykryciu gestu ekranowego</string>
+    <string name="touchscreen_gesture_two_finger_down_swipe_title">Przesuń dwoma palcami w dół</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_title">Przesuń jednym palcem w górę</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Przesuń w górę od przycisku ekranu głównego</string>
+    <string name="touchscreen_gesture_one_finger_down_swipe_title">Przesuń jednym palcem w dół</string>
+    <string name="touchscreen_gesture_one_finger_left_swipe_title">Przesuń jednym palcem w lewo</string>
+    <string name="touchscreen_gesture_one_finger_right_swipe_title">Przesuń jednym palcem w prawo</string>
+    <string name="touchscreen_gesture_up_arrow_title">Narysuj znak \"Λ\"</string>
+    <string name="touchscreen_gesture_down_arrow_title">Narysuj znak \"V\"</string>
+    <string name="touchscreen_gesture_left_arrow_title">Narysuj \"&lt;\"</string>
+    <string name="touchscreen_gesture_right_arrow_title">Narysuj \"&gt;\"</string>
+    <string name="touchscreen_gesture_letter_c_title">Narysuj literę \"C\"</string>
+    <string name="touchscreen_gesture_letter_e_title">Narysuj literę \"e\"</string>
+    <string name="touchscreen_gesture_letter_o_title">Narysuj literę \"O\"</string>
+    <string name="touchscreen_gesture_letter_m_title">Narysuj literę \"M\"</string>
+    <string name="touchscreen_gesture_letter_s_title">Narysuj literę \"S\"</string>
+    <string name="touchscreen_gesture_letter_v_title">Narysuj literę \"V\"</string>
+    <string name="touchscreen_gesture_letter_w_title">Narysuj literę \"W\"</string>
+    <string name="touchscreen_gesture_letter_z_title">Narysuj literę \"Z\"</string>
+    <string name="touchscreen_gesture_single_tap_title">Pojedyncze dotknięcie</string>
+    <string name="touchscreen_gesture_double_tap_title">Podwójne dotknięcie</string>
+    <!-- Gesture: Stylus gestures -->
+    <string name="touchscreen_gesture_swipe_up_stylus_title">Przesuń rysikiem w górę</string>
+    <string name="touchscreen_gesture_swipe_down_stylus_title">Przesuń rysikiem w dół</string>
+    <string name="touchscreen_gesture_swipe_left_stylus_title">Przesuń rysikiem w lewo</string>
+    <string name="touchscreen_gesture_swipe_right_stylus_title">Przesuń rysikiem w prawo</string>
+    <string name="touchscreen_gesture_long_press_stylus_title">Przytrzymaj długo rysikiem</string>
+    <string name="touchscreen_gesture_action_dialog_title">Gest akcji</string>
+    <string name="touchscreen_gesture_action_do_nothing">Nic nie rób</string>
+    <string name="touchscreen_gesture_action_flashlight">Włącz/wyłącz latarkę</string>
+    <string name="touchscreen_gesture_action_camera">Otwórz aparat</string>
+    <string name="touchscreen_gesture_action_browser">Otwórz przeglądarkę</string>
+    <string name="touchscreen_gesture_action_dialer">Otwórz wybieranie numerów</string>
+    <string name="touchscreen_gesture_action_email">Zobacz swoje wiadomości e-mail</string>
+    <string name="touchscreen_gesture_action_messages">Zobacz swoje wiadomości</string>
+    <string name="touchscreen_gesture_action_play_pause_music">Odtwórz/zatrzymaj muzykę</string>
+    <string name="touchscreen_gesture_action_previous_track">Odtwórz poprzedni utwór</string>
+    <string name="touchscreen_gesture_action_next_track">Odtwórz następny utwór</string>
+    <string name="touchscreen_gesture_action_volume_down">Zmniejsz głośność multimediów</string>
+    <string name="touchscreen_gesture_action_volume_up">Zwiększ głośność multimediów</string>
+    <string name="touchscreen_gesture_action_ambient_display">Pokaż ekran dostosowany do otoczenia</string>
+    <string name="touchscreen_gesture_action_wake_device">Wybudź urządzenie</string>
+</resources>

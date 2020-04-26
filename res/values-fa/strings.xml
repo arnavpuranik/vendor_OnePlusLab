@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2019 Havoc-OS
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Gestures: Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">حرکات لمسی</string>
+    <string name="touchscreen_gesture_settings_summary">انجام حرکات لمسی مختلف برای عمل‌های سریع</string>
+    <string name="touchscreen_gestures_haptic_feedback_title">عکس‌العمل‌ قابل لمس</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">لرزیدن هنگامی که حرکات صفحه ی لمسی تشخیص داده شود</string>
+    <string name="touchscreen_gesture_two_finger_down_swipe_title">پایین کشیدن با دو انگشت</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_title">بالا کشیدن با یک انگشت</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">بالا کشیدن از کلید خانه</string>
+    <string name="touchscreen_gesture_one_finger_down_swipe_title">پایین کشیدن با یک انگشت</string>
+    <string name="touchscreen_gesture_one_finger_left_swipe_title">به چپ کشیدن با یک انگشت</string>
+    <string name="touchscreen_gesture_one_finger_right_swipe_title">به راست کشیدن با یک انگشت</string>
+    <string name="touchscreen_gesture_up_arrow_title">کشیدن یک «Λ»</string>
+    <string name="touchscreen_gesture_down_arrow_title">کشیدن یک «V»</string>
+    <string name="touchscreen_gesture_left_arrow_title">کشیدن یک «&lt;»</string>
+    <string name="touchscreen_gesture_right_arrow_title">کشیدن یک «&gt;»</string>
+    <string name="touchscreen_gesture_letter_c_title">کشیدن حرف «C»</string>
+    <string name="touchscreen_gesture_letter_e_title">کشیدن حرف «e»</string>
+    <string name="touchscreen_gesture_letter_o_title">کشیدن حرف «O»</string>
+    <string name="touchscreen_gesture_letter_m_title">کشیدن حرف «M»</string>
+    <string name="touchscreen_gesture_letter_s_title">کشیدن حرف «S»</string>
+    <string name="touchscreen_gesture_letter_v_title">کشیدن حرف «V»</string>
+    <string name="touchscreen_gesture_letter_w_title">کشیدن حرف «W»</string>
+    <string name="touchscreen_gesture_letter_z_title">کشیدن حرف «Z»</string>
+    <string name="touchscreen_gesture_single_tap_title">تک ضربه</string>
+    <string name="touchscreen_gesture_double_tap_title">دو ضربه</string>
+    <!-- Gesture: Stylus gestures -->
+    <string name="touchscreen_gesture_swipe_up_stylus_title">بالا کشیدن با قلم</string>
+    <string name="touchscreen_gesture_swipe_down_stylus_title">پایین کشیدن با قلم</string>
+    <string name="touchscreen_gesture_swipe_left_stylus_title">کشیدن به چپ با قلم</string>
+    <string name="touchscreen_gesture_swipe_right_stylus_title">کشیدن به راست با قلم</string>
+    <string name="touchscreen_gesture_long_press_stylus_title">فشار طولانی با قلم</string>
+    <string name="touchscreen_gesture_action_dialog_title">حرکات انگشتی</string>
+    <string name="touchscreen_gesture_action_do_nothing">کاری انجام نشود</string>
+    <string name="touchscreen_gesture_action_flashlight">روشن و خاموش کردن چراغ‌قوه</string>
+    <string name="touchscreen_gesture_action_camera">باز کردن دوربین</string>
+    <string name="touchscreen_gesture_action_browser">باز کردن مرورگر</string>
+    <string name="touchscreen_gesture_action_dialer">باز کردن شماره‌گیر</string>
+    <string name="touchscreen_gesture_action_email">مشاهده ایمیل هایتان</string>
+    <string name="touchscreen_gesture_action_messages">مشاهده پیام هایتان</string>
+    <string name="touchscreen_gesture_action_play_pause_music">پخش/توقف موسیقی</string>
+    <string name="touchscreen_gesture_action_previous_track">پخش موسیقی قبلی</string>
+    <string name="touchscreen_gesture_action_next_track">پخش موسیقی بعدی</string>
+    <string name="touchscreen_gesture_action_volume_down">کاهش صدای رسانه</string>
+    <string name="touchscreen_gesture_action_volume_up">افزایش صدای رسانه</string>
+    <string name="touchscreen_gesture_action_ambient_display">نشان دادن نمایشگر محیط</string>
+    <string name="touchscreen_gesture_action_wake_device">روشن کردن دستگاه</string>
+</resources>
