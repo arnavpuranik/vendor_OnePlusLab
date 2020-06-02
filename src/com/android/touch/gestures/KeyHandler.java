@@ -328,9 +328,7 @@ public class KeyHandler implements DeviceKeyHandler {
     private void launchDozePulse() {
         final boolean dozeEnabled = Settings.Secure.getInt(mContext.getContentResolver(),
                 Settings.Secure.DOZE_ENABLED, 1) != 0;
-        final boolean fodEnabled = Settings.System.getInt(mContext.getContentResolver(),
-                Settings.System.SCREEN_OFF_FOD, 0) != 0;
-        if (dozeEnabled && !fodEnabled) {
+        if (dozeEnabled) {
             mGestureWakeLock.acquire(GESTURE_WAKELOCK_DURATION);
             final Intent intent = new Intent(PULSE_ACTION);
             mContext.sendBroadcastAsUser(intent, UserHandle.CURRENT);
