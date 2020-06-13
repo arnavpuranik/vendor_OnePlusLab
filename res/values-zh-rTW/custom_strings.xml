@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Gestures: Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">觸碰螢幕手勢</string>
+    <string name="touchscreen_gesture_settings_summary">執行各種觸碰螢幕手勢以進行快速操作</string>
+    <string name="touchscreen_gestures_haptic_feedback_title">觸碰回饋</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">檢測到觸碰螢幕手勢時振動</string>
+    <string name="touchscreen_gesture_two_finger_down_swipe_title">兩根手指向下滑動</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_title">單根手指向上滑動</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">從Home按鈕向上滑動</string>
+    <string name="touchscreen_gesture_one_finger_down_swipe_title">單根手指向下滑動</string>
+    <string name="touchscreen_gesture_one_finger_left_swipe_title">單根手指向左滑動</string>
+    <string name="touchscreen_gesture_one_finger_right_swipe_title">單根手指向右滑動</string>
+    <string name="touchscreen_gesture_up_arrow_title">畫個\"Λ\"</string>
+    <string name="touchscreen_gesture_down_arrow_title">畫個\"V\"</string>
+    <string name="touchscreen_gesture_left_arrow_title">畫個\"&lt;\"</string>
+    <string name="touchscreen_gesture_right_arrow_title">畫個\"&gt;\"</string>
+    <string name="touchscreen_gesture_letter_c_title">畫個\"C\"</string>
+    <string name="touchscreen_gesture_letter_e_title">畫個\"e\"</string>
+    <string name="touchscreen_gesture_letter_o_title">畫個\"O\"</string>
+    <string name="touchscreen_gesture_letter_m_title">畫個\"M\"</string>
+    <string name="touchscreen_gesture_letter_s_title">畫個\"S\"</string>
+    <string name="touchscreen_gesture_letter_v_title">畫個\"V\"</string>
+    <string name="touchscreen_gesture_letter_w_title">畫個\"W\"</string>
+    <string name="touchscreen_gesture_letter_z_title">畫個\"Z\"</string>
+    <string name="touchscreen_gesture_single_tap_title">單點</string>
+    <string name="touchscreen_gesture_double_tap_title">雙點</string>
+    <!-- Gesture: Stylus gestures -->
+    <string name="touchscreen_gesture_swipe_up_stylus_title">觸控筆向上滑動</string>
+    <string name="touchscreen_gesture_swipe_down_stylus_title">觸控筆向下滑動</string>
+    <string name="touchscreen_gesture_swipe_left_stylus_title">觸控筆向左滑動</string>
+    <string name="touchscreen_gesture_swipe_right_stylus_title">觸控筆向右滑動</string>
+    <string name="touchscreen_gesture_long_press_stylus_title">觸控筆長點</string>
+    <string name="touchscreen_gesture_action_dialog_title">手勢動作</string>
+    <string name="touchscreen_gesture_action_do_nothing">無動作</string>
+    <string name="touchscreen_gesture_action_flashlight">開關手電筒</string>
+    <string name="touchscreen_gesture_action_camera">開啟相機</string>
+    <string name="touchscreen_gesture_action_browser">開啟瀏覽器</string>
+    <string name="touchscreen_gesture_action_dialer">開啟撥號程式</string>
+    <string name="touchscreen_gesture_action_email">查看您的電子郵件</string>
+    <string name="touchscreen_gesture_action_messages">查看您的訊息</string>
+    <string name="touchscreen_gesture_action_play_pause_music">播放/暫停音樂</string>
+    <string name="touchscreen_gesture_action_previous_track">播放上一個音樂曲目</string>
+    <string name="touchscreen_gesture_action_next_track">播放下一個音樂曲目</string>
+    <string name="touchscreen_gesture_action_volume_down">降低媒體音量</string>
+    <string name="touchscreen_gesture_action_volume_up">提高媒體音量</string>
+    <string name="touchscreen_gesture_action_ambient_display">顯示Ambient Display</string>
+    <string name="touchscreen_gesture_action_wake_device">喚醒手機</string>
+</resources>
