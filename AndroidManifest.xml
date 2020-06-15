@@ -36,6 +36,7 @@
         <activity
             android:name=".ScreenOffLaunchGestureActivity"
             android:permission="com.android.touch.gestures.TRIGGER_SCREEN_OFF_GESTURE"
+            android:excludeFromRecents="true"
             android:exported="true"
             android:label="@string/touchscreen_gesture_settings_title"
             android:theme="@style/AppTheme.Transparent">
