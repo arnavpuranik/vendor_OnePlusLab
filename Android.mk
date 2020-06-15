@@ -11,7 +11,9 @@ LOCAL_CERTIFICATE := platform
 LOCAL_PRIVILEGED_MODULE := true
 LOCAL_PRIVATE_PLATFORM_APIS := true
 
-LOCAL_PROGUARD_FLAG_FILES := proguard.flags
+LOCAL_PROGUARD_ENABLED := disabled
+
+LOCAL_DEX_PREOPT := false
 
 include frameworks/base/packages/SettingsLib/common.mk
 
