@@ -35,4 +35,15 @@
     <string name="touchscreen_gesture_action_do_nothing">Καμία ενέργεια</string>
     <string name="touchscreen_gesture_action_flashlight">Εναλλαγή φακού</string>
     <string name="touchscreen_gesture_action_camera">Άνοιγμα της φωτογραφικής μηχανής</string>
+    <string name="touchscreen_gesture_action_browser">Άνοιγμα του φυλλομετρητή</string>
+    <string name="touchscreen_gesture_action_dialer">Άνοιγμα της εφαρμ. τηλέφωνο</string>
+    <string name="touchscreen_gesture_action_email">Προβολή των email σας</string>
+    <string name="touchscreen_gesture_action_messages">Προβολή των μηνυμάτων σας</string>
+    <string name="touchscreen_gesture_action_play_pause_music">Αναπαραγωγή/παύση μουσικής</string>
+    <string name="touchscreen_gesture_action_previous_track">Αναπαραγωγή του προηγούμενου μουσικού κομματιού</string>
+    <string name="touchscreen_gesture_action_next_track">Αναπαραγωγή του επόμενου κομματιού μουσικής</string>
+    <string name="touchscreen_gesture_action_volume_down">Μείωση έντασης πολυμέσων</string>
+    <string name="touchscreen_gesture_action_volume_up">Αύξηση της έντασης των πολυμέσων</string>
+    <string name="touchscreen_gesture_action_ambient_display">Εμφάνιση της οθόνης περιβάλλοντος</string>
+    <string name="touchscreen_gesture_action_wake_device">Αφύπνιση συσκευής</string>
 </resources>
