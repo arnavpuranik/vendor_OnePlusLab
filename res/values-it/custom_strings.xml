@@ -4,7 +4,7 @@
     <string name="touchscreen_gesture_settings_title">Gesture sullo schermo</string>
     <string name="touchscreen_gesture_settings_summary">Esegui vari movimenti sul touchscreen per azioni rapide</string>
     <string name="touchscreen_gestures_haptic_feedback_title">Vibrazione al tocco</string>
-    <string name="touchscreen_gestures_haptic_feedback_summary">Vibra quando viene rilevata una gesture</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">Vibra quando viene rilevata una gesture sul touchscreen</string>
     <string name="touchscreen_gesture_two_finger_down_swipe_title">Scorri verso il basso con due dita</string>
     <string name="touchscreen_gesture_one_finger_up_swipe_title">Scorri verso l\'alto con un dito</string>
     <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Scorri verso l\'alto dal pulsante home</string>
