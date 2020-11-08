@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Gestures: Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Ekran hareketleri</string>
     <string name="touchscreen_gesture_settings_summary">Hızlı işlemler için çeşitli dokunmatik ekran hareketleri gerçekleştirin</string>
     <string name="touchscreen_gestures_haptic_feedback_title">Dokunsal geribildirim</string>
@@ -25,7 +24,6 @@
     <string name="touchscreen_gesture_letter_z_title">\"Z\" harfi çizin</string>
     <string name="touchscreen_gesture_single_tap_title">Tek dokunma</string>
     <string name="touchscreen_gesture_double_tap_title">Çift dokunma</string>
-    <!-- Gesture: Stylus gestures -->
     <string name="touchscreen_gesture_swipe_up_stylus_title">Kalemle yukarı kaydır</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">Kalemle aşağı kaydır</string>
     <string name="touchscreen_gesture_swipe_left_stylus_title">Kalemle sola kaydır</string>

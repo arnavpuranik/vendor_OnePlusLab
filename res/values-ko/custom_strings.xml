@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Gestures: Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">터치스크린 제스처</string>
     <string name="touchscreen_gesture_settings_summary">다양한 터치스크린 제스처를 사용하여 빠른 작업 실행합니다</string>
     <string name="touchscreen_gestures_haptic_feedback_title">햅틱 피드백</string>
@@ -25,7 +24,6 @@
     <string name="touchscreen_gesture_letter_z_title">문자 \"Z\" 그리기</string>
     <string name="touchscreen_gesture_single_tap_title">한 번 탭</string>
     <string name="touchscreen_gesture_double_tap_title">더블 탭</string>
-    <!-- Gesture: Stylus gestures -->
     <string name="touchscreen_gesture_swipe_up_stylus_title">스타일러스로 쓸어 올리기</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">스타일러스로 쓸어 내리기</string>
     <string name="touchscreen_gesture_swipe_left_stylus_title">스타일러스로 왼쪽으로 밀기</string>

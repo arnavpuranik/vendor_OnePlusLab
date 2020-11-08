@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Gestures: Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Gestos na tela</string>
     <string name="touchscreen_gesture_settings_summary">Faça vários gestos na tela para ações rápidas</string>
     <string name="touchscreen_gestures_haptic_feedback_title">Feedback tátil</string>
@@ -25,7 +24,6 @@
     <string name="touchscreen_gesture_letter_z_title">Desenhar a letra \"Z\"</string>
     <string name="touchscreen_gesture_single_tap_title">Toque único</string>
     <string name="touchscreen_gesture_double_tap_title">Toque duplo</string>
-    <!-- Gesture: Stylus gestures -->
     <string name="touchscreen_gesture_swipe_up_stylus_title">Deslizar para cima com a caneta</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">Deslizar para baixo com a caneta</string>
     <string name="touchscreen_gesture_swipe_left_stylus_title">Deslizar para a esquerda com a caneta</string>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Gestures: Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Érintőképernyő kézmozdulat vezérlés</string>
     <string name="touchscreen_gesture_settings_summary">Különböző képernyő-mozdulatvezérlések végrehajtása a gyors műveletekhez</string>
     <string name="touchscreen_gestures_haptic_feedback_title">Rezgő visszajelzés</string>
@@ -25,7 +24,6 @@
     <string name="touchscreen_gesture_letter_z_title">\"Z\" betű rajzolása</string>
     <string name="touchscreen_gesture_single_tap_title">Egyszeri érintés</string>
     <string name="touchscreen_gesture_double_tap_title">Dupla érintés</string>
-    <!-- Gesture: Stylus gestures -->
     <string name="touchscreen_gesture_swipe_up_stylus_title">Felfelé csúsztatás az érintőceruzával</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">Lefelé csúsztatás az érintőceruzával</string>
     <string name="touchscreen_gesture_swipe_left_stylus_title">Balra csúsztatás az érintőceruzával</string>

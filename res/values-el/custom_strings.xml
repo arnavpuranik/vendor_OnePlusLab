@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Gestures: Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Χειρονομίες αφής</string>
     <string name="touchscreen_gesture_settings_summary">Εκτελέστε διάφορες χειρονομίες αφής για γρήγορες ενέργειες</string>
     <string name="touchscreen_gestures_haptic_feedback_title">Ανάδραση αγγίγματος</string>
@@ -25,7 +24,6 @@
     <string name="touchscreen_gesture_letter_z_title">Σχεδιάστε το γράμμα «Z»</string>
     <string name="touchscreen_gesture_single_tap_title">Μονό άγγιγμα</string>
     <string name="touchscreen_gesture_double_tap_title">Διπλό άγγιγμα</string>
-    <!-- Gesture: Stylus gestures -->
     <string name="touchscreen_gesture_swipe_up_stylus_title">Σύρετε προς τα επάνω με τη γραφίδα</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">Σύρετε προς τα κάτω με τη γραφίδα</string>
     <string name="touchscreen_gesture_swipe_left_stylus_title">Σύρετε προς τα αριστερά με τη γραφίδα</string>

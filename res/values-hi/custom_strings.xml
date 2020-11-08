@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Gestures: Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Gestur layar sentuh</string>
     <string name="touchscreen_gesture_settings_summary">Melakukan berbagai gerakan layar sentuh untuk tindakan cepat</string>
     <string name="touchscreen_gestures_haptic_feedback_title">Getaran balik</string>
@@ -25,7 +24,6 @@
     <string name="touchscreen_gesture_letter_z_title">Gambar huruf \"Z\"</string>
     <string name="touchscreen_gesture_single_tap_title">Ketuk sekali</string>
     <string name="touchscreen_gesture_double_tap_title">Ketuk dua kali</string>
-    <!-- Gesture: Stylus gestures -->
     <string name="touchscreen_gesture_swipe_up_stylus_title">Usap ke atas dengan stylus</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">Usap ke bawah dengan stylus</string>
     <string name="touchscreen_gesture_swipe_left_stylus_title">Usap ke kiri dengan stylus</string>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Gestures: Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">حرکات لمسی</string>
     <string name="touchscreen_gesture_settings_summary">انجام حرکات لمسی مختلف برای عمل‌های سریع</string>
     <string name="touchscreen_gestures_haptic_feedback_title">عکس‌العمل‌ قابل لمس</string>
@@ -25,7 +24,6 @@
     <string name="touchscreen_gesture_letter_z_title">کشیدن حرف «Z»</string>
     <string name="touchscreen_gesture_single_tap_title">تک ضربه</string>
     <string name="touchscreen_gesture_double_tap_title">دو ضربه</string>
-    <!-- Gesture: Stylus gestures -->
     <string name="touchscreen_gesture_swipe_up_stylus_title">بالا کشیدن با قلم</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">پایین کشیدن با قلم</string>
     <string name="touchscreen_gesture_swipe_left_stylus_title">کشیدن به چپ با قلم</string>

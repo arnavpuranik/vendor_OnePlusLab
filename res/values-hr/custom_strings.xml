@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Gestures: Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Geste zaslona</string>
     <string name="touchscreen_gesture_settings_summary">Izvrši razne geste dodirnog zaslona za brze radnje</string>
     <string name="touchscreen_gestures_haptic_feedback_title">Haptička povratna informacija</string>
@@ -25,7 +24,6 @@
     <string name="touchscreen_gesture_letter_z_title">Nacrtajte slovo \"Z\"</string>
     <string name="touchscreen_gesture_single_tap_title">Jedan dodir</string>
     <string name="touchscreen_gesture_double_tap_title">Dvostruki dodir</string>
-    <!-- Gesture: Stylus gestures -->
     <string name="touchscreen_gesture_swipe_up_stylus_title">Prijeđite gore sa pisalicom</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">Prijeđite dolje sa pisalicom</string>
     <string name="touchscreen_gesture_swipe_left_stylus_title">Prijeđite ulijevo sa pisalicom</string>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Gestures: Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">إيماءات اللمس</string>
     <string name="touchscreen_gesture_settings_summary">عمل إيماءات لمس متعددة لإجراءات سريعة</string>
     <string name="touchscreen_gestures_haptic_feedback_title">الاستجابة اللمسية</string>
@@ -25,7 +24,6 @@
     <string name="touchscreen_gesture_letter_z_title">ارسم حرف \"Z\"</string>
     <string name="touchscreen_gesture_single_tap_title">نقرة واحدة</string>
     <string name="touchscreen_gesture_double_tap_title">نقرتين</string>
-    <!-- Gesture: Stylus gestures -->
     <string name="touchscreen_gesture_swipe_up_stylus_title">مرر لأعلى بالقلم</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">مرر لأسفل بالقلم</string>
     <string name="touchscreen_gesture_swipe_left_stylus_title">مرر لليسار بالقلم</string>

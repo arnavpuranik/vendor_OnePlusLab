@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Gestures: Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Raccourcis tactiles</string>
     <string name="touchscreen_gesture_settings_summary">Effectuez des gestes sur l\'écran pour différentes actions</string>
     <string name="touchscreen_gestures_haptic_feedback_title">Retour tactile</string>
@@ -25,7 +24,6 @@
     <string name="touchscreen_gesture_letter_z_title">Dessinez la lettre « Z »</string>
     <string name="touchscreen_gesture_single_tap_title">Appui simple</string>
     <string name="touchscreen_gesture_double_tap_title">Appui double</string>
-    <!-- Gesture: Stylus gestures -->
     <string name="touchscreen_gesture_swipe_up_stylus_title">Glissez vers le haut avec le stylet</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">Glissez vers le bas avec le stylet</string>
     <string name="touchscreen_gesture_swipe_left_stylus_title">Glissez vers la gauche avec le stylet</string>

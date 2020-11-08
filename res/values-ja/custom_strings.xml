@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Gestures: Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">タッチスクリーンジェスチャー</string>
     <string name="touchscreen_gesture_settings_summary">様々なタッチスクリーンジェスチャーで素早くアクションを実行する</string>
     <string name="touchscreen_gestures_haptic_feedback_title">振動フィードバック</string>
@@ -25,7 +24,6 @@
     <string name="touchscreen_gesture_letter_z_title">「Z」を描く</string>
     <string name="touchscreen_gesture_single_tap_title">シングルタップ</string>
     <string name="touchscreen_gesture_double_tap_title">ダブルタップ</string>
-    <!-- Gesture: Stylus gestures -->
     <string name="touchscreen_gesture_swipe_up_stylus_title">スタイラスで上にスワイプ</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">スタイラスで下にスワイプ</string>
     <string name="touchscreen_gesture_swipe_left_stylus_title">スタイラスで左にスワイプ</string>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="touchscreen_gesture_single_tap_title">ایک کلک</string>
+    <string name="touchscreen_gesture_double_tap_title">دوہرا تھپ تھپانا</string>
+    <string name="touchscreen_gesture_action_wake_device">آلہ کو بیدار</string>
+</resources>

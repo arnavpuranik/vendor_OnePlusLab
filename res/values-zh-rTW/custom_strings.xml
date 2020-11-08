@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Gestures: Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">觸碰螢幕手勢</string>
     <string name="touchscreen_gesture_settings_summary">執行各種觸碰螢幕手勢以進行快速操作</string>
     <string name="touchscreen_gestures_haptic_feedback_title">觸碰回饋</string>
@@ -25,7 +24,6 @@
     <string name="touchscreen_gesture_letter_z_title">畫個\"Z\"</string>
     <string name="touchscreen_gesture_single_tap_title">單點</string>
     <string name="touchscreen_gesture_double_tap_title">雙點</string>
-    <!-- Gesture: Stylus gestures -->
     <string name="touchscreen_gesture_swipe_up_stylus_title">觸控筆向上滑動</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">觸控筆向下滑動</string>
     <string name="touchscreen_gesture_swipe_left_stylus_title">觸控筆向左滑動</string>

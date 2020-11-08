@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Gestures: Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Тъчскрийн жестове</string>
     <string name="touchscreen_gesture_settings_summary">Изпълнява различни бързи действия чрез жестове върху сензорния екран</string>
     <string name="touchscreen_gestures_haptic_feedback_title">Oбратна връзка</string>
@@ -25,7 +24,6 @@
     <string name="touchscreen_gesture_letter_z_title">Начертайте буквата \"Z\"</string>
     <string name="touchscreen_gesture_single_tap_title">Едно натискане</string>
     <string name="touchscreen_gesture_double_tap_title">Двойно почукване</string>
-    <!-- Gesture: Stylus gestures -->
     <string name="touchscreen_gesture_swipe_up_stylus_title">Плъзнете нагоре с писалката</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">Плъзнете надолу с писалката</string>
     <string name="touchscreen_gesture_swipe_left_stylus_title">Плъзнете наляво с писалката</string>

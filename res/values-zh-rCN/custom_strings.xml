@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Gestures: Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">息屏手势</string>
     <string name="touchscreen_gesture_settings_summary">使用各种息屏手势进行快捷操作</string>
     <string name="touchscreen_gestures_haptic_feedback_title">震动反馈</string>
@@ -25,7 +24,6 @@
     <string name="touchscreen_gesture_letter_z_title">绘制字母\"Z\"</string>
     <string name="touchscreen_gesture_single_tap_title">单击</string>
     <string name="touchscreen_gesture_double_tap_title">双击</string>
-    <!-- Gesture: Stylus gestures -->
     <string name="touchscreen_gesture_swipe_up_stylus_title">用触控笔向上滑动</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">用触控笔向下滑动</string>
     <string name="touchscreen_gesture_swipe_left_stylus_title">用触控笔向左滑动</string>

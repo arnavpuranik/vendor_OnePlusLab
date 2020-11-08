@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Gestures: Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Gesty ekranowe</string>
     <string name="touchscreen_gesture_settings_summary">Wykonaj różne gesty ekranowe, aby wykonać szybkie akcje</string>
     <string name="touchscreen_gestures_haptic_feedback_title">Wibracje przy naciśnięciu</string>
@@ -25,7 +24,6 @@
     <string name="touchscreen_gesture_letter_z_title">Narysuj literę \"Z\"</string>
     <string name="touchscreen_gesture_single_tap_title">Pojedyncze dotknięcie</string>
     <string name="touchscreen_gesture_double_tap_title">Podwójne dotknięcie</string>
-    <!-- Gesture: Stylus gestures -->
     <string name="touchscreen_gesture_swipe_up_stylus_title">Przesuń rysikiem w górę</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">Przesuń rysikiem w dół</string>
     <string name="touchscreen_gesture_swipe_left_stylus_title">Przesuń rysikiem w lewo</string>
