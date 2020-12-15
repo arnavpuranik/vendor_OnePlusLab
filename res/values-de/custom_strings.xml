@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="touchscreen_gesture_settings_title">Touchscreen-Gesten</string>
+    <string name="touchscreen_gesture_settings_title">Bildschirmgesten</string>
     <string name="touchscreen_gesture_settings_summary">Mit Hilfe verschiedener Gesten Schnellaktionen durchführen</string>
     <string name="touchscreen_gestures_haptic_feedback_title">Haptisches Feedback</string>
     <string name="touchscreen_gestures_haptic_feedback_summary">Vibrieren, wenn eine Bildschirmgeste erkannt wurde</string>

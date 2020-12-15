@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="touchscreen_gesture_settings_title">Gestos a la pantalla tàctil</string>
+    <string name="touchscreen_gestures_haptic_feedback_title">Resposta hàptica</string>
+    <string name="touchscreen_gesture_letter_c_title">Dibuixa la lletra \"C\"</string>
+    <string name="touchscreen_gesture_letter_e_title">Dibuixa la lletra \"e\"</string>
+    <string name="touchscreen_gesture_letter_o_title">Dibuixa la lletra \"O\"</string>
+    <string name="touchscreen_gesture_letter_m_title">Dibuixa la lletra \"M\"</string>
+    <string name="touchscreen_gesture_letter_s_title">Dibuixa la lletra \"S\"</string>
+    <string name="touchscreen_gesture_letter_v_title">Dibuixa la lletra \"V\"</string>
+    <string name="touchscreen_gesture_letter_w_title">Dibuixa la lletra \"W\"</string>
+    <string name="touchscreen_gesture_letter_z_title">Dibuixa la lletra \"Z\"</string>
     <string name="touchscreen_gesture_single_tap_title">Un toc</string>
     <string name="touchscreen_gesture_double_tap_title">Doble toc</string>
+    <string name="touchscreen_gesture_action_do_nothing">No fer res</string>
+    <string name="touchscreen_gesture_action_flashlight">Encendre/apagar llanterna</string>
+    <string name="touchscreen_gesture_action_camera">Obre la càmera</string>
+    <string name="touchscreen_gesture_action_browser">Obre el navegador</string>
+    <string name="touchscreen_gesture_action_dialer">Obre el marcador</string>
+    <string name="touchscreen_gesture_action_email">Mostra els teus correus</string>
+    <string name="touchscreen_gesture_action_messages">Mostra els teus missatges</string>
+    <string name="touchscreen_gesture_action_play_pause_music">Reprodueix/Pausa música</string>
+    <string name="touchscreen_gesture_action_volume_down">Abaixa el volum multimèdia</string>
+    <string name="touchscreen_gesture_action_volume_up">Apuja el volum multimèdia</string>
+    <string name="touchscreen_gesture_action_ambient_display">Mostra la pantalla ambient</string>
     <string name="touchscreen_gesture_action_wake_device">Encén el dispositiu</string>
 </resources>
