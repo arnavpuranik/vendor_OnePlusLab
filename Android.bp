@@ -1,0 +1,15 @@
+android_app {
+    name: "TouchGestures",
+
+    // Include SettingsLib and it's dependencies
+    defaults: ["SettingsLibDefaults"],
+
+    srcs: ["src/**/*.java"],
+    resource_dirs: ["res"],
+
+    manifest: "AndroidManifest.xml",
+
+    platform_apis: true,
+    certificate: "platform",
+    privileged: true,
+}
