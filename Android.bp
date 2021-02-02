@@ -11,5 +11,8 @@ android_app {
     dex_preopt: {
         enabled: false,
     },
+    optimize: {
+        enabled: false,
+    },
     privileged: true,
 }
