@@ -43,5 +43,5 @@
     <string name="touchscreen_gesture_action_volume_down">Baisser le volume des contenus multimédias</string>
     <string name="touchscreen_gesture_action_volume_up">Augmenter le volume des contenus multimédias</string>
     <string name="touchscreen_gesture_action_ambient_display">Activer l\'Ambient mode</string>
-    <string name="touchscreen_gesture_action_wake_device">Sortir l\'appareil de veille</string>
+    <string name="touchscreen_gesture_action_wake_device">Réveiller l\'appareil</string>
 </resources>

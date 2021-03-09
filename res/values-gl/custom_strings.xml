@@ -43,5 +43,5 @@
     <string name="touchscreen_gesture_action_volume_down">Baixar o volume dos medios</string>
     <string name="touchscreen_gesture_action_volume_up">Subir o volume dos medios</string>
     <string name="touchscreen_gesture_action_ambient_display">Amosar pantalla ambiente</string>
-    <string name="touchscreen_gesture_action_wake_device">Espertar o dispositivo</string>
+    <string name="touchscreen_gesture_action_wake_device">Despertar dispositivo</string>
 </resources>

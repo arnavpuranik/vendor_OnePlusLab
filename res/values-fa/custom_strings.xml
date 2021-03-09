@@ -43,5 +43,5 @@
     <string name="touchscreen_gesture_action_volume_down">کاهش صدای رسانه</string>
     <string name="touchscreen_gesture_action_volume_up">افزایش صدای رسانه</string>
     <string name="touchscreen_gesture_action_ambient_display">نشان دادن نمایشگر محیط</string>
-    <string name="touchscreen_gesture_action_wake_device">روشن کردن دستگاه</string>
+    <string name="touchscreen_gesture_action_wake_device">بیدار کردن دستگاه</string>
 </resources>

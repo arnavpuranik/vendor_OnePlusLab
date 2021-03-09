@@ -43,5 +43,5 @@
     <string name="touchscreen_gesture_action_volume_down">Smanji jačinu zvuka medija</string>
     <string name="touchscreen_gesture_action_volume_up">Povećaj jačinu zvuka medija</string>
     <string name="touchscreen_gesture_action_ambient_display">Prikaži Ambijentalni zaslon</string>
-    <string name="touchscreen_gesture_action_wake_device">Probudi uređaj</string>
+    <string name="touchscreen_gesture_action_wake_device">Buđenje uređaja</string>
 </resources>

@@ -43,5 +43,5 @@
     <string name="touchscreen_gesture_action_volume_down">Senk medievolum</string>
     <string name="touchscreen_gesture_action_volume_up">Øk medievolum</string>
     <string name="touchscreen_gesture_action_ambient_display">Vis omgivelsesskjerm</string>
-    <string name="touchscreen_gesture_action_wake_device">Vekk enhet</string>
+    <string name="touchscreen_gesture_action_wake_device">Vekke enhet</string>
 </resources>

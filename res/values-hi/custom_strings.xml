@@ -43,5 +43,5 @@
     <string name="touchscreen_gesture_action_volume_down">Turunkan volume media</string>
     <string name="touchscreen_gesture_action_volume_up">Naikkan volume media</string>
     <string name="touchscreen_gesture_action_ambient_display">Tampilkan tampilan ambient</string>
-    <string name="touchscreen_gesture_action_wake_device">Bangunkan perangkat</string>
+    <string name="touchscreen_gesture_action_wake_device">फोन को चालू करें</string>
 </resources>

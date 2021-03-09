@@ -37,5 +37,5 @@
     <string name="touchscreen_gesture_action_email">আপনার ইমেল দেখুন</string>
     <string name="touchscreen_gesture_action_messages">আপনার বার্তা দেখুন</string>
     <string name="touchscreen_gesture_action_play_pause_music">গান চালান/বিরতি দিন</string>
-    <string name="touchscreen_gesture_action_wake_device">ডিভাইস জাগ্রত করুন</string>
+    <string name="touchscreen_gesture_action_wake_device">ডিভাইস জাগ্রত করা</string>
 </resources>

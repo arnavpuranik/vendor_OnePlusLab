@@ -13,5 +13,5 @@
     <string name="touchscreen_gesture_action_volume_down">ಮಾಧ್ಯಮ ಧ್ವನಿ ಕಡಿಮೆಗೊಳಿಸು</string>
     <string name="touchscreen_gesture_action_volume_up">ಮಾಧ್ಯಮದ ಶಬ್ದಮಟ್ಟ ಏರಿಸು</string>
     <string name="touchscreen_gesture_action_ambient_display">ಆವರಿಸಿದ ಪರದೆ</string>
-    <string name="touchscreen_gesture_action_wake_device">ಸಾಧನವನ್ನು ಎಚ್ಚರಗೊಳಿಸು</string>
+    <string name="touchscreen_gesture_action_wake_device">ಸಾಧನವನ್ನು ಎಬ್ಬಿಸು</string>
 </resources>

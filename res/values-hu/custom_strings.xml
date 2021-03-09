@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="touchscreen_gesture_settings_title">Érintőképernyő kézmozdulat vezérlés</string>
+    <string name="touchscreen_gesture_settings_title">Érintőképernyő kézmozdulat-vezérlés</string>
     <string name="touchscreen_gesture_settings_summary">Különböző képernyő-mozdulatvezérlések végrehajtása a gyors műveletekhez</string>
     <string name="touchscreen_gestures_haptic_feedback_title">Rezgő visszajelzés</string>
-    <string name="touchscreen_gestures_haptic_feedback_summary">Az érintőképernyő kézmozdulat észlelésekor rezeg</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">Az érintőképernyő kézmozdulat észlelésekor rezegni fog</string>
     <string name="touchscreen_gesture_two_finger_down_swipe_title">Csúsztatás lefelé két ujjal</string>
     <string name="touchscreen_gesture_one_finger_up_swipe_title">Csúsztatás felfelé egy ujjal</string>
     <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Csúsztatás felfelé a Kezdőlap gombról</string>
@@ -31,10 +31,10 @@
     <string name="touchscreen_gesture_long_press_stylus_title">Hosszan nyomás az érintőceruzával</string>
     <string name="touchscreen_gesture_action_dialog_title">Kézmozdulattal indított művelet</string>
     <string name="touchscreen_gesture_action_do_nothing">Nincs művelet</string>
-    <string name="touchscreen_gesture_action_flashlight">Zseblámpa kapcsolása</string>
-    <string name="touchscreen_gesture_action_camera">Kamera indítása</string>
-    <string name="touchscreen_gesture_action_browser">Böngésző megnyitása</string>
-    <string name="touchscreen_gesture_action_dialer">Tárcsázó megnyitása</string>
+    <string name="touchscreen_gesture_action_flashlight">Zseblámpa-kapcsolás</string>
+    <string name="touchscreen_gesture_action_camera">Kamera-indítás</string>
+    <string name="touchscreen_gesture_action_browser">Böngésző-megnyitás</string>
+    <string name="touchscreen_gesture_action_dialer">Tárcsázó-megnyitás</string>
     <string name="touchscreen_gesture_action_email">E-mailek megtekintése</string>
     <string name="touchscreen_gesture_action_messages">Üzenetek megtekintése</string>
     <string name="touchscreen_gesture_action_play_pause_music">Zene lejátszása/megállítása</string>
@@ -43,5 +43,5 @@
     <string name="touchscreen_gesture_action_volume_down">Médiahangerő csökkentése</string>
     <string name="touchscreen_gesture_action_volume_up">Médiahangerő növelése</string>
     <string name="touchscreen_gesture_action_ambient_display">A Környezeti kijelző megjelenítése</string>
-    <string name="touchscreen_gesture_action_wake_device">Készülékébresztés</string>
+    <string name="touchscreen_gesture_action_wake_device">Eszköz felébresztése</string>
 </resources>

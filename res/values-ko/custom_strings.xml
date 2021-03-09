@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="touchscreen_gesture_settings_title">터치스크린 제스처</string>
-    <string name="touchscreen_gesture_settings_summary">다양한 터치스크린 제스처를 사용하여 빠른 작업 실행합니다</string>
+    <string name="touchscreen_gesture_settings_summary">다양한 터치스크린 제스처를 사용해서 빠르게 작업을 실행해요.</string>
     <string name="touchscreen_gestures_haptic_feedback_title">햅틱 피드백</string>
-    <string name="touchscreen_gestures_haptic_feedback_summary">터치스크린 제스처를 감지하면 진동 울림</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">터치스크린 제스처를 감지하면 진동이 울려요.</string>
     <string name="touchscreen_gesture_two_finger_down_swipe_title">두 손가락으로 쓸어 내리기</string>
     <string name="touchscreen_gesture_one_finger_up_swipe_title">한 손가락으로 쓸어 올리기</string>
     <string name="touchscreen_gesture_one_finger_up_swipe_home_title">홈 버튼에서 위로 밀기</string>
@@ -30,8 +30,8 @@
     <string name="touchscreen_gesture_swipe_right_stylus_title">스타일러스로 오른쪽으로 밀기</string>
     <string name="touchscreen_gesture_long_press_stylus_title">스타일러스로 길게 누르기</string>
     <string name="touchscreen_gesture_action_dialog_title">제스처 동작</string>
-    <string name="touchscreen_gesture_action_do_nothing">아무것도 하지않음</string>
-    <string name="touchscreen_gesture_action_flashlight">손전등 토글</string>
+    <string name="touchscreen_gesture_action_do_nothing">아무 것도 하지 않음</string>
+    <string name="touchscreen_gesture_action_flashlight">손전등 켜기 / 끄기</string>
     <string name="touchscreen_gesture_action_camera">카메라 열기</string>
     <string name="touchscreen_gesture_action_browser">브라우저 실행</string>
     <string name="touchscreen_gesture_action_dialer">전화 열기</string>
@@ -40,8 +40,8 @@
     <string name="touchscreen_gesture_action_play_pause_music">음악 재생/일시 정지</string>
     <string name="touchscreen_gesture_action_previous_track">이전 음악 트랙 재생</string>
     <string name="touchscreen_gesture_action_next_track">다음 음악 트랙 재생</string>
-    <string name="touchscreen_gesture_action_volume_down">미디어 음량 작게</string>
-    <string name="touchscreen_gesture_action_volume_up">미디어 음량 크게</string>
+    <string name="touchscreen_gesture_action_volume_down">미디어 음량 내리기</string>
+    <string name="touchscreen_gesture_action_volume_up">미디어 음량 올리기</string>
     <string name="touchscreen_gesture_action_ambient_display">앰비언트 디스플레이 표시</string>
-    <string name="touchscreen_gesture_action_wake_device">기기 절전 모드 해제</string>
+    <string name="touchscreen_gesture_action_wake_device">기기 깨우기</string>
 </resources>

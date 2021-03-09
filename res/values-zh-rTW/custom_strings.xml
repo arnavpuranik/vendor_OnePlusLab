@@ -43,5 +43,5 @@
     <string name="touchscreen_gesture_action_volume_down">降低媒體音量</string>
     <string name="touchscreen_gesture_action_volume_up">提高媒體音量</string>
     <string name="touchscreen_gesture_action_ambient_display">顯示Ambient Display</string>
-    <string name="touchscreen_gesture_action_wake_device">喚醒手機</string>
+    <string name="touchscreen_gesture_action_wake_device">喚醒裝置</string>
 </resources>

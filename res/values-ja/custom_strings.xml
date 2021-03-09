@@ -43,5 +43,5 @@
     <string name="touchscreen_gesture_action_volume_down">メディア音量を下げる</string>
     <string name="touchscreen_gesture_action_volume_up">メディア音量を上げる</string>
     <string name="touchscreen_gesture_action_ambient_display">アンビエント表示</string>
-    <string name="touchscreen_gesture_action_wake_device">スリープ解除</string>
+    <string name="touchscreen_gesture_action_wake_device">端末をスリープ解除</string>
 </resources>

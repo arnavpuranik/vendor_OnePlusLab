@@ -2,5 +2,5 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="touchscreen_gesture_single_tap_title">ใช้ปลายนิ้วมือ แตะเพียงครั้งเดียว</string>
     <string name="touchscreen_gesture_double_tap_title">ใช้ปลายนิ้วมือ แตะสองครั้ง</string>
-    <string name="touchscreen_gesture_action_wake_device">เปิดอุปกรณ์</string>
+    <string name="touchscreen_gesture_action_wake_device">ปลุกอุปกรณ์</string>
 </resources>
