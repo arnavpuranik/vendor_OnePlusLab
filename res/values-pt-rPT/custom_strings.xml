@@ -18,12 +18,12 @@
     <string name="touchscreen_gesture_letter_e_title">Desenhar a letra \"e\"</string>
     <string name="touchscreen_gesture_letter_o_title">Desenhar a letra \"O\"</string>
     <string name="touchscreen_gesture_letter_m_title">Desenhar a letra \"M\"</string>
-    <string name="touchscreen_gesture_letter_s_title">Desenha a letra \"S\"</string>
+    <string name="touchscreen_gesture_letter_s_title">Desenhar a letra \"S\"</string>
     <string name="touchscreen_gesture_letter_v_title">Desenhar a letra \"V\"</string>
     <string name="touchscreen_gesture_letter_w_title">Desenhar a letra \"W\"</string>
     <string name="touchscreen_gesture_letter_z_title">Desenhar a letra \"Z\"</string>
-    <string name="touchscreen_gesture_single_tap_title">Toque único</string>
-    <string name="touchscreen_gesture_double_tap_title">Toque duplo</string>
+    <string name="touchscreen_gesture_single_tap_title">Um toque</string>
+    <string name="touchscreen_gesture_double_tap_title">Dois toques</string>
     <string name="touchscreen_gesture_swipe_up_stylus_title">Deslizar para cima com a caneta</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">Deslizar para baixo com a caneta</string>
     <string name="touchscreen_gesture_swipe_left_stylus_title">Deslizar para a esquerda com a caneta</string>
@@ -35,13 +35,13 @@
     <string name="touchscreen_gesture_action_camera">Abrir câmara</string>
     <string name="touchscreen_gesture_action_browser">Abrir navegador</string>
     <string name="touchscreen_gesture_action_dialer">Abrir marcador</string>
-    <string name="touchscreen_gesture_action_email">Ver os e-mails</string>
-    <string name="touchscreen_gesture_action_messages">Ver as mensagens</string>
+    <string name="touchscreen_gesture_action_email">Ver correio eletrónico</string>
+    <string name="touchscreen_gesture_action_messages">Ver mensagens</string>
     <string name="touchscreen_gesture_action_play_pause_music">Reproduzir/pausa nas músicas</string>
     <string name="touchscreen_gesture_action_previous_track">Reproduzir a faixa anterior</string>
     <string name="touchscreen_gesture_action_next_track">Reproduzir a faixa seguinte</string>
     <string name="touchscreen_gesture_action_volume_down">Reduzir volume multimédia</string>
     <string name="touchscreen_gesture_action_volume_up">Aumentar volume multimédia</string>
     <string name="touchscreen_gesture_action_ambient_display">Mostrar visualização ambiente</string>
-    <string name="touchscreen_gesture_action_wake_device">Acordar o dispositivo</string>
+    <string name="touchscreen_gesture_action_wake_device">Acordar dispositivo</string>
 </resources>

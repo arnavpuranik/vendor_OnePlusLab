@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="touchscreen_gesture_up_arrow_title">Rita ett \"Λ\"</string>
+    <string name="touchscreen_gesture_down_arrow_title">Rita ett \"V\"</string>
+    <string name="touchscreen_gesture_letter_c_title">Rita bokstaven \"C\"</string>
+    <string name="touchscreen_gesture_letter_e_title">Rita bokstaven \"e\"</string>
+    <string name="touchscreen_gesture_letter_o_title">Rita bokstaven \"O\"</string>
+    <string name="touchscreen_gesture_letter_m_title">Rita bokstaven \"M\"</string>
+    <string name="touchscreen_gesture_letter_s_title">Rita bokstaven \"S\"</string>
+    <string name="touchscreen_gesture_letter_v_title">Rita bokstaven \"V\"</string>
+    <string name="touchscreen_gesture_letter_w_title">Rita bokstaven \"W\"</string>
+    <string name="touchscreen_gesture_letter_z_title">Rita bokstaven \"Z\"</string>
     <string name="touchscreen_gesture_single_tap_title">Enkeltryck</string>
     <string name="touchscreen_gesture_double_tap_title">Dubbeltryck</string>
+    <string name="touchscreen_gesture_action_camera">Öppna kameran</string>
+    <string name="touchscreen_gesture_action_browser">Öppna webbläsaren</string>
+    <string name="touchscreen_gesture_action_messages">Visa dina meddelanden</string>
     <string name="touchscreen_gesture_action_wake_device">Väck enhet</string>
 </resources>

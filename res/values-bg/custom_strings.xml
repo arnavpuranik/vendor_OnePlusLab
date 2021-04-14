@@ -43,5 +43,5 @@
     <string name="touchscreen_gesture_action_volume_down">По-ниска сила на звука на медията</string>
     <string name="touchscreen_gesture_action_volume_up">Увеличи силата на звука на медията</string>
     <string name="touchscreen_gesture_action_ambient_display">Покажи активния дисплей</string>
-    <string name="touchscreen_gesture_action_wake_device">Събуди устройството</string>
+    <string name="touchscreen_gesture_action_wake_device">Събудете устройството</string>
 </resources>
