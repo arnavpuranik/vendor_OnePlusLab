@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="touchscreen_gesture_settings_title">الإيماءات اللمسية</string>
-    <string name="touchscreen_gesture_settings_summary">عمل إيماءات لمس متعددة لإجراءات سريعة</string>
+    <string name="touchscreen_gesture_settings_summary">قم بعمل إيماءات لمس متعددة للقيام بإجراءات سريعة</string>
     <string name="touchscreen_gestures_haptic_feedback_title">الاستجابة اللمسية</string>
     <string name="touchscreen_gestures_haptic_feedback_summary">الاهتزاز عند التعرف على إيماءة لمسية</string>
     <string name="touchscreen_gesture_two_finger_down_swipe_title">مرر للأسفل بإصبعين</string>
@@ -42,6 +42,6 @@
     <string name="touchscreen_gesture_action_next_track">تشغيل المقطع الموسيقي التالي</string>
     <string name="touchscreen_gesture_action_volume_down">خفض صوت الوسائط</string>
     <string name="touchscreen_gesture_action_volume_up">رفع مستوى صوت الوسائط</string>
-    <string name="touchscreen_gesture_action_ambient_display">إظهار العرض المحيطي</string>
+    <string name="touchscreen_gesture_action_ambient_display">إظهار وضع ال Ambient display</string>
     <string name="touchscreen_gesture_action_wake_device">إيقاظ الجهاز</string>
 </resources>
