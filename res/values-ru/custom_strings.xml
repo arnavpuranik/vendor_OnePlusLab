@@ -39,9 +39,9 @@
     <string name="touchscreen_gesture_action_messages">Просмотреть сообщения</string>
     <string name="touchscreen_gesture_action_play_pause_music">Воспроизв./пауза музыки</string>
     <string name="touchscreen_gesture_action_previous_track">Включить предыдущий трек</string>
-    <string name="touchscreen_gesture_action_next_track">Включить следующий трек</string>
+    <string name="touchscreen_gesture_action_next_track">Проиграть следующий трек</string>
     <string name="touchscreen_gesture_action_volume_down">Уменьшить громкость</string>
     <string name="touchscreen_gesture_action_volume_up">Увеличить громкость</string>
     <string name="touchscreen_gesture_action_ambient_display">Показать Ambient Display</string>
-    <string name="touchscreen_gesture_action_wake_device">Выход из режима сна</string>
+    <string name="touchscreen_gesture_action_wake_device">Выход из спящего режима</string>
 </resources>
