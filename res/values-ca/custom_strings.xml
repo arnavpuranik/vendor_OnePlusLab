@@ -2,6 +2,10 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="touchscreen_gesture_settings_title">Gestos a la pantalla tàctil</string>
     <string name="touchscreen_gestures_haptic_feedback_title">Resposta hàptica</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">Vibrar quan es detecti un gest a la pantalla tàctil</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_title">Llisca cap amunt amb un dit</string>
+    <string name="touchscreen_gesture_up_arrow_title">Dibuixa una \"Λ\"</string>
+    <string name="touchscreen_gesture_down_arrow_title">Dibuixa una \"V\"</string>
     <string name="touchscreen_gesture_letter_c_title">Dibuixa la lletra \"C\"</string>
     <string name="touchscreen_gesture_letter_e_title">Dibuixa la lletra \"e\"</string>
     <string name="touchscreen_gesture_letter_o_title">Dibuixa la lletra \"O\"</string>
