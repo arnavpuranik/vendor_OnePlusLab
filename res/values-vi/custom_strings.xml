@@ -6,7 +6,7 @@
     <string name="touchscreen_gestures_haptic_feedback_summary">Rung khi một cử chỉ màn hình cảm ứng được phát hiện</string>
     <string name="touchscreen_gesture_two_finger_down_swipe_title">Vuốt xuống bằng hai ngón tay</string>
     <string name="touchscreen_gesture_one_finger_up_swipe_title">Vuốt lên bằng một ngón tay</string>
-    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Vuốt lên từ nút Home</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Vuốt lên từ nút trang chủ</string>
     <string name="touchscreen_gesture_one_finger_down_swipe_title">Vuốt xuống bằng một ngón tay</string>
     <string name="touchscreen_gesture_one_finger_left_swipe_title">Vuốt sang trái bằng một ngón tay</string>
     <string name="touchscreen_gesture_one_finger_right_swipe_title">Vuốt sang phải bằng một ngón tay</string>
@@ -31,7 +31,7 @@
     <string name="touchscreen_gesture_long_press_stylus_title">Nhấn giữ với bút stylus</string>
     <string name="touchscreen_gesture_action_dialog_title">Hành động cử chỉ</string>
     <string name="touchscreen_gesture_action_do_nothing">Không làm gì</string>
-    <string name="touchscreen_gesture_action_flashlight">Bật đèn pin</string>
+    <string name="touchscreen_gesture_action_flashlight">Chuyển đổi đèn pin</string>
     <string name="touchscreen_gesture_action_camera">Mở máy ảnh</string>
     <string name="touchscreen_gesture_action_browser">Mở trình duyệt</string>
     <string name="touchscreen_gesture_action_dialer">Mở trình quay số</string>

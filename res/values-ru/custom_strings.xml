@@ -43,5 +43,5 @@
     <string name="touchscreen_gesture_action_volume_down">Уменьшить громкость</string>
     <string name="touchscreen_gesture_action_volume_up">Увеличить громкость</string>
     <string name="touchscreen_gesture_action_ambient_display">Показать Ambient Display</string>
-    <string name="touchscreen_gesture_action_wake_device">Выход из спящего режима</string>
+    <string name="touchscreen_gesture_action_wake_device">Выход из режима сна</string>
 </resources>

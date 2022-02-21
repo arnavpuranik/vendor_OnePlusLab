@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="touchscreen_gesture_settings_title">Gestos a la pantalla tàctil</string>
+    <string name="touchscreen_gesture_settings_summary">Fes diversos gestos a la pantalla tàctil per fer accions ràpides</string>
     <string name="touchscreen_gestures_haptic_feedback_title">Resposta hàptica</string>
     <string name="touchscreen_gestures_haptic_feedback_summary">Vibrar quan es detecti un gest a la pantalla tàctil</string>
+    <string name="touchscreen_gesture_two_finger_down_swipe_title">Llisca avall amb dos dits</string>
     <string name="touchscreen_gesture_one_finger_up_swipe_title">Llisca cap amunt amb un dit</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Llisca cap amunt des del botó d\'inici</string>
+    <string name="touchscreen_gesture_one_finger_down_swipe_title">Llisca avall amb un dit</string>
+    <string name="touchscreen_gesture_one_finger_left_swipe_title">Llisca a l\'esquerra amb un dit</string>
+    <string name="touchscreen_gesture_one_finger_right_swipe_title">Llisca a la dreta amb un dit</string>
     <string name="touchscreen_gesture_up_arrow_title">Dibuixa una \"Λ\"</string>
     <string name="touchscreen_gesture_down_arrow_title">Dibuixa una \"V\"</string>
+    <string name="touchscreen_gesture_left_arrow_title">Dibuixa un \"&lt;\"</string>
+    <string name="touchscreen_gesture_right_arrow_title">Dibuixa un \"&gt;\"</string>
     <string name="touchscreen_gesture_letter_c_title">Dibuixa la lletra \"C\"</string>
     <string name="touchscreen_gesture_letter_e_title">Dibuixa la lletra \"e\"</string>
     <string name="touchscreen_gesture_letter_o_title">Dibuixa la lletra \"O\"</string>
@@ -16,6 +24,8 @@
     <string name="touchscreen_gesture_letter_z_title">Dibuixa la lletra \"Z\"</string>
     <string name="touchscreen_gesture_single_tap_title">Un toc</string>
     <string name="touchscreen_gesture_double_tap_title">Doble toc</string>
+    <string name="touchscreen_gesture_swipe_up_stylus_title">Llisca cap apunt amb el llapis</string>
+    <string name="touchscreen_gesture_swipe_down_stylus_title">Llisca avall amb el llapis</string>
     <string name="touchscreen_gesture_action_do_nothing">No fer res</string>
     <string name="touchscreen_gesture_action_flashlight">Encendre/apagar llanterna</string>
     <string name="touchscreen_gesture_action_camera">Obre la càmera</string>

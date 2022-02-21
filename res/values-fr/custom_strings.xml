@@ -8,7 +8,7 @@
     <string name="touchscreen_gesture_one_finger_up_swipe_title">Glissez vers le haut avec un doigt</string>
     <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Balayer vers le haut depuis le bouton d\'accueil</string>
     <string name="touchscreen_gesture_one_finger_down_swipe_title">Glisser vers le bas avec un doigt</string>
-    <string name="touchscreen_gesture_one_finger_left_swipe_title">Glissez vers la gauche avec votre doigt</string>
+    <string name="touchscreen_gesture_one_finger_left_swipe_title">Balayez vers la gauche avec votre doigt</string>
     <string name="touchscreen_gesture_one_finger_right_swipe_title">Glissez vers la droite avec un doigt</string>
     <string name="touchscreen_gesture_up_arrow_title">Dessiner un « Λ »</string>
     <string name="touchscreen_gesture_down_arrow_title">Dessinez un « V »</string>
