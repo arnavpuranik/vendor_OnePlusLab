@@ -26,6 +26,10 @@
     <string name="touchscreen_gesture_double_tap_title">Doble toc</string>
     <string name="touchscreen_gesture_swipe_up_stylus_title">Llisca cap apunt amb el llapis</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">Llisca avall amb el llapis</string>
+    <string name="touchscreen_gesture_swipe_left_stylus_title">Llisca cap a l\'esquerra amb el llapis</string>
+    <string name="touchscreen_gesture_swipe_right_stylus_title">Llisca cap a la dreta amb el llapis</string>
+    <string name="touchscreen_gesture_long_press_stylus_title">Premeu i mantingueu premut amb el llapis</string>
+    <string name="touchscreen_gesture_action_dialog_title">Acció gestual</string>
     <string name="touchscreen_gesture_action_do_nothing">No fer res</string>
     <string name="touchscreen_gesture_action_flashlight">Encendre/apagar llanterna</string>
     <string name="touchscreen_gesture_action_camera">Obre la càmera</string>
@@ -34,6 +38,8 @@
     <string name="touchscreen_gesture_action_email">Mostra els teus correus</string>
     <string name="touchscreen_gesture_action_messages">Mostra els teus missatges</string>
     <string name="touchscreen_gesture_action_play_pause_music">Reprodueix/Pausa música</string>
+    <string name="touchscreen_gesture_action_previous_track">Reprodueix la pista de música anterior</string>
+    <string name="touchscreen_gesture_action_next_track">Reprodueix la pista de música següent</string>
     <string name="touchscreen_gesture_action_volume_down">Abaixa el volum multimèdia</string>
     <string name="touchscreen_gesture_action_volume_up">Apuja el volum multimèdia</string>
     <string name="touchscreen_gesture_action_ambient_display">Mostra la pantalla ambient</string>
