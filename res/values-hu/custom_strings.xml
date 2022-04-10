@@ -43,5 +43,5 @@
     <string name="touchscreen_gesture_action_volume_down">Médiahangerő csökkentése</string>
     <string name="touchscreen_gesture_action_volume_up">Médiahangerő növelése</string>
     <string name="touchscreen_gesture_action_ambient_display">A Környezeti kijelző megjelenítése</string>
-    <string name="touchscreen_gesture_action_wake_device">Eszköz felébresztése</string>
+    <string name="touchscreen_gesture_action_wake_device">Készülékébresztés</string>
 </resources>
