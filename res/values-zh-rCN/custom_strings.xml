@@ -30,7 +30,7 @@
     <string name="touchscreen_gesture_swipe_right_stylus_title">用触控笔向右滑动</string>
     <string name="touchscreen_gesture_long_press_stylus_title">用触控笔长按</string>
     <string name="touchscreen_gesture_action_dialog_title">手势操作</string>
-    <string name="touchscreen_gesture_action_do_nothing">不进行任何操作</string>
+    <string name="touchscreen_gesture_action_do_nothing">无动作</string>
     <string name="touchscreen_gesture_action_flashlight">切换手电筒</string>
     <string name="touchscreen_gesture_action_camera">打开相机</string>
     <string name="touchscreen_gesture_action_browser">打开浏览器</string>
