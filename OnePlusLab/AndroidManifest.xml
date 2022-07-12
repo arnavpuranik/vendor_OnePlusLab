@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2014-2015 The CyanogenMod Project
+     Copyright (C) 2017 The LineageOS Project
+     Copyright (C) 2021 The Evolution X Project
+     Copyright (C) 2018 The Xiaomi-SDM660 Project
+     Copyright (C) 2018-2021 crDroid Android Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.aosp.device.OnePlusLab"
+    android:sharedUserId="android.uid.system"
+    android:versionCode="4"
+    android:versionName="4.0">
+
+    <uses-permission android:name="android.permission.INJECT_EVENTS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+
+    <protected-broadcast android:name="com.android.systemui.doze.pulse" />
+    <protected-broadcast android:name="org.aosp.device.OnePlusLab.UPDATE_SLIDER_POSITION" />
+    <protected-broadcast android:name="org.aosp.device.OnePlusLab.UPDATE_SLIDER_SETTINGS" />
+
+    <uses-sdk
+        android:minSdkVersion="28"
+        android:targetSdkVersion="29" />
+
+    <application
+        android:icon="@drawable/ic_settings_device"
+        android:label="@string/device_title"
+        android:theme="@style/Theme.SubSettingsBase"
+        android:defaultToDeviceProtectedStorage="true"
+        android:directBootAware="true">
+
+        <receiver
+            android:name="org.aosp.device.OnePlusLab.Startup"
+            android:defaultToDeviceProtectedStorage="true"
+            android:directBootAware="true"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.LOCKED_BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <activity 
+            android:name="org.aosp.device.OnePlusLab" />
+        <activity 
+            android:name="org.aosp.device.OnePlusLab.KeyHandler" />
+
+        <!-- OnePlusLab -->
+        <activity
+            android:name="org.aosp.device.OnePlusLab.OnePlusLabActivity"
+            android:label="@string/device_title">
+            <intent-filter>
+                <action android:name="com.android.settings.action.EXTRA_SETTINGS" />
+            </intent-filter>
+
+            <meta-data
+                android:name="com.android.settings.icon"
+                android:resource="@drawable/ic_settings_device" />
+            <meta-data
+                android:name="com.android.settings.category"
+                android:value="com.android.settings.category.ia.homepage" />
+            <meta-data
+                android:name="com.android.settings.summary"
+                android:resource="@string/device_summary" />
+        </activity>
+
+        <!-- OnePlusLab tile -->
+        <service
+            android:name="org.aosp.device.OnePlusLab.OnePlusLabTileService"
+            android:icon="@drawable/ic_settings_device"
+            android:label="@string/device_title"
+            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
+            <intent-filter>
+                <action android:name="android.service.quicksettings.action.QS_TILE" />
+            </intent-filter>
+        </service>
+
+        <!-- HBM Service -->
+        <service 
+            android:name="org.aosp.device.OnePlusLab.HBMModeService"
+            android:exported="false" />
+
+        <!-- Auto HBM service -->
+        <service
+            android:name="org.aosp.device.OnePlusLab.AutoHBMService"
+            android:exported="false" />
+
+        <!-- HBM tile -->
+        <service
+            android:name="org.aosp.device.OnePlusLab.HBMModeTileService"
+            android:icon="@drawable/ic_hbm_mode"
+            android:label="@string/hbm_mode_title"
+            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
+            <intent-filter>
+                <action android:name="android.service.quicksettings.action.QS_TILE" />
+            </intent-filter>
+        </service>
+
+        <!-- Doze service -->
+        <service
+            android:name="org.aosp.device.OnePlusLab.doze.DozeService"
+            android:permission="OneplusDozeService" />
+
+        <!-- Doze Activity -->
+        <activity
+            android:name="org.aosp.device.OnePlusLab.doze.DozeSettingsActivity"
+            android:exported="true"
+            android:label="@string/ambient_display_title">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- Doze tile -->
+        <service
+            android:name="org.aosp.device.OnePlusLab.doze.DozeTileService"
+            android:icon="@drawable/ic_eye"
+            android:label="@string/ambient_display_gestures_title"
+            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
+            <intent-filter>
+                <action android:name="android.service.quicksettings.action.QS_TILE" />
+            </intent-filter>
+        </service>
+
+        <!-- FPS info service -->
+        <service
+            android:name="org.aosp.device.OnePlusLab.FPSInfoService"
+            android:exported="false" />
+
+        <!-- FPS tile -->
+        <service
+            android:name="org.aosp.device.OnePlusLab.FPSTileService"
+            android:icon="@drawable/ic_fps_overlay"
+            android:label="@string/fps_info_title"
+            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
+            <intent-filter>
+                <action android:name="android.service.quicksettings.action.QS_TILE" />
+            </intent-filter>
+        </service>
+
+        <!-- Game Mode  Tile -->
+        <service
+            android:name="org.aosp.device.OnePlusLab.GameModeTileService"
+            android:icon="@drawable/ic_game_mode"
+            android:label="@string/game_mode_title"
+            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
+            <intent-filter>
+                <action
+                    android:name="android.service.quicksettings.action.QS_TILE"/>
+            </intent-filter>
+        </service>
+
+        <!-- Search Indexing -->
+        <provider
+            android:name="org.aosp.device.OnePlusLab.ConfigPanelSearchIndexablesProvider"
+            android:authorities="org.aosp.device"
+            android:exported="true"
+            android:grantUriPermissions="true"
+            android:multiprocess="false"
+            android:permission="android.permission.READ_SEARCH_INDEXABLES">
+            <intent-filter>
+                <action android:name="android.content.action.SEARCH_INDEXABLES_PROVIDER" />
+            </intent-filter>
+        </provider>
+    </application>
+</manifest>
