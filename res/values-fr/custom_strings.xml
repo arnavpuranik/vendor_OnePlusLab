@@ -31,7 +31,7 @@
     <string name="touchscreen_gesture_long_press_stylus_title">Appui long avec le stylet</string>
     <string name="touchscreen_gesture_action_dialog_title">Action lors d\'un geste tactile</string>
     <string name="touchscreen_gesture_action_do_nothing">Ne rien faire</string>
-    <string name="touchscreen_gesture_action_flashlight">Activer/Désactiver la lampe de poche</string>
+    <string name="touchscreen_gesture_action_flashlight">Allumer/éteindre la lampe de poche</string>
     <string name="touchscreen_gesture_action_camera">Ouvrir l\'appareil photo</string>
     <string name="touchscreen_gesture_action_browser">Ouvrir le navigateur</string>
     <string name="touchscreen_gesture_action_dialer">Ouvrir le clavier téléphonique</string>

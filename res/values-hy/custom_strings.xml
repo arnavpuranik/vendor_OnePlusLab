@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="touchscreen_gesture_up_arrow_title">Նկարիր \"Λ\"</string>
+    <string name="touchscreen_gesture_down_arrow_title">Նկարիր \"V\"</string>
+    <string name="touchscreen_gesture_left_arrow_title">Նկարիր \"&lt;\"</string>
+    <string name="touchscreen_gesture_right_arrow_title">Նկարիր \"&gt;\"</string>
+    <string name="touchscreen_gesture_letter_c_title">Նկարիր \"C\" տառը</string>
+    <string name="touchscreen_gesture_letter_e_title">Նկարիր \"e\" տառը</string>
+    <string name="touchscreen_gesture_letter_o_title">Նկարիր \"O\" տառը</string>
+    <string name="touchscreen_gesture_letter_m_title">Նկարիր \"M\" տառը</string>
+    <string name="touchscreen_gesture_letter_s_title">Նկարիր \"S\" տառը</string>
     <string name="touchscreen_gesture_single_tap_title">Մեկ հպում</string>
     <string name="touchscreen_gesture_double_tap_title">Կրկնակի հպում</string>
     <string name="touchscreen_gesture_action_wake_device">Դուրս գալ քնի ռեժիմից</string>

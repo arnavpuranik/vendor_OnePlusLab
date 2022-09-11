@@ -2,7 +2,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="touchscreen_gesture_settings_title">タッチスクリーンジェスチャー</string>
     <string name="touchscreen_gesture_settings_summary">様々なタッチスクリーンジェスチャーで素早くアクションを実行する</string>
-    <string name="touchscreen_gestures_haptic_feedback_title">振動フィードバック</string>
+    <string name="touchscreen_gestures_haptic_feedback_title">触覚フィードバック</string>
     <string name="touchscreen_gestures_haptic_feedback_summary">タッチスクリーンジェスチャーを検出した時に振動させる</string>
     <string name="touchscreen_gesture_two_finger_down_swipe_title">2本の指で下にスライド</string>
     <string name="touchscreen_gesture_one_finger_up_swipe_title">1本指で上にスライド</string>
