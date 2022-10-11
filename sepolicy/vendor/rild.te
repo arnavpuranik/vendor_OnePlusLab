@@ -1,4 +1,0 @@
-allow rild proc_rild:dir r_dir_perms;
-allow rild proc_rild:file rw_file_perms;
-
-get_prop(rild, vendor_oplus_prop)
