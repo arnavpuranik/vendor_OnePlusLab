@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="touchscreen_gesture_single_tap_title">એક ટેપ</string>
+    <string name="touchscreen_gesture_double_tap_title">ડબલ ટેપ કરો</string>
+    <string name="touchscreen_gesture_action_wake_device">વેક ઉપકરણ</string>
+</resources>

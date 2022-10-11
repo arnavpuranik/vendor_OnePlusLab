@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.touch.gestures"
+    android:sharedUserId="android.uid.system">
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <permission
+        android:name="com.android.touch.gestures.TRIGGER_SCREEN_OFF_GESTURE"
+        android:protectionLevel="signatureOrSystem" />
+
+    <protected-broadcast android:name="com.android.touch.gestures.UPDATE_SETTINGS" />
+
+    <uses-sdk
+        android:targetSdkVersion="29"/>
+
+    <application
+        android:label="@string/touchscreen_gesture_settings_title"
+        android:persistent="true"
+        android:supportsRtl="true">
+
+        <receiver android:name=".BootReceiver" android:enabled="true">
+            <intent-filter android:priority="999999">
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".TouchscreenGestureSettings"
+            android:label="@string/touchscreen_gesture_settings_title"
+            android:theme="@style/AppTheme">
+        </activity>
+
+        <activity
+            android:name=".ScreenOffLaunchGestureActivity"
+            android:permission="com.android.touch.gestures.TRIGGER_SCREEN_OFF_GESTURE"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:label="@string/touchscreen_gesture_settings_title"
+            android:theme="@style/AppTheme.Transparent">
+        </activity>
+    </application>
+</manifest>

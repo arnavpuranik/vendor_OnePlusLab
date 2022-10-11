@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="touchscreen_gesture_single_tap_title">မျက်နှာပြင်ကို တချက်ခေါက်ခြင်း</string>
+    <string name="touchscreen_gesture_double_tap_title">နှစ်ကြိမ်ခေါက်ခြင်း</string>
+    <string name="touchscreen_gesture_action_wake_device">ဖုန်းအားနိုးထမည်</string>
+</resources>
