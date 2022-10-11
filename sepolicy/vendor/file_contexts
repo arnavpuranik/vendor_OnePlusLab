@@ -1,21 +1,5 @@
-# Alert Slider
-/(vendor|system/vendor)/bin/tri-state-key-calibrate    u:object_r:tri-state-key-calibrate_exec:s0
-
 # Dolby
 /(vendor|system/vendor)/bin/hw/vendor\.dolby\.hardware\.dms@2\.0-service                                        u:object_r:hal_dms_default_exec:s0
-
-# Engineering
-/mnt/vendor/persist/engineermode(/.*)?    u:object_r:vendor_persist_engineer_file:s0
-
-# HALs
-/(vendor|system/vendor)/bin/hw/vendor\.lineage\.touch@1\.0-service\.oplus                           u:object_r:hal_lineage_touch_default_exec:s0
-/(vendor|system/vendor)/bin/hw/vendor\.lineage\.powershare@1\.0-service\.oplus                           u:object_r:hal_lineage_powershare_default_exec:s0
-
-# NFC
-/(odm|vendor/odm)/bin/hw/vendor\.nxp\.hardware\.nfc@1\.2-service      u:object_r:hal_nfc_default_exec:s0
-
-# Vibrator
-/(vendor|system/vendor)/bin/hw/vendor\.qti\.hardware\.vibrator\.service\.oplus                                       u:object_r:hal_vibrator_default_exec:s0
 
 # Proc files
 /proc/touchpanel/game_switch_enable           u:object_r:vendor_proc_display:s0
