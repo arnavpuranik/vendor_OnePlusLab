@@ -70,7 +70,6 @@ public class OnePlusLab extends PreferenceFragment
     public static final String KEY_FPS_INFO_TEXT_SIZE = "fps_info_text_size";
     public static final String KEY_GAME_SWITCH = "game_mode";
     public static final String KEY_HBM_SWITCH = "hbm";
-    public static final String KEY_TOUCHSCREEN="touchscreen";
     public static final String KEY_VIBSTRENGTH = "vib_strength";
 
     private static ListPreference mFpsInfoPosition;
@@ -125,16 +124,6 @@ public class OnePlusLab extends PreferenceFragment
 
         mFpsInfoTextSizePreference = (CustomSeekBarPreference) findPreference(KEY_FPS_INFO_TEXT_SIZE);
         mFpsInfoTextSizePreference.setOnPreferenceChangeListener(this);
-
-        // GameMode
-        if (getResources().getBoolean(R.bool.config_deviceSupportsHighSampleRate)) {
-        mGameModeSwitch = (TwoStatePreference) findPreference(KEY_GAME_SWITCH);
-        mGameModeSwitch.setEnabled(GameModeSwitch.isSupported());
-        mGameModeSwitch.setChecked(GameModeSwitch.isCurrentlyEnabled(this.getContext()));
-        mGameModeSwitch.setOnPreferenceChangeListener(new GameModeSwitch());
-        } else {
-            getPreferenceScreen().removePreference((Preference) findPreference(KEY_TOUCHSCREEN));
-        }
 
         // Slider Preferences
         initNotificationSliderPreference();

@@ -154,18 +154,6 @@
             </intent-filter>
         </service>
 
-        <!-- Game Mode  Tile -->
-        <service
-            android:name="org.aosp.device.OnePlusLab.GameModeTileService"
-            android:icon="@drawable/ic_game_mode"
-            android:label="@string/game_mode_title"
-            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
-            <intent-filter>
-                <action
-                    android:name="android.service.quicksettings.action.QS_TILE"/>
-            </intent-filter>
-        </service>
-
         <!-- Search Indexing -->
         <provider
             android:name="org.aosp.device.OnePlusLab.ConfigPanelSearchIndexablesProvider"

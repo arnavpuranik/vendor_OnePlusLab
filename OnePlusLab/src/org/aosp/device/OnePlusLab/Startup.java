@@ -40,10 +40,6 @@ public class Startup extends BroadcastReceiver {
         if (enabled) {
             context.startService(new Intent(context, FPSInfoService.class));
                }
-        enabled = sharedPrefs.getBoolean(OnePlusLab.KEY_GAME_SWITCH, false);
-        if (enabled) {
-        restore(GameModeSwitch.getFile(), enabled);
-               }
         OnePlusLab.restoreSliderStates(context);
         org.aosp.device.OnePlusLab.doze.DozeUtils.checkDozeService(context);
         VibratorStrengthPreference.restore(context);

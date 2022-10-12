@@ -107,18 +107,8 @@
     <string name="switch_bar_off">Off</string>
     <string name="switch_bar_on">On</string>
 
-    <!-- Touchscreen -->
-    <string name="touchscreen_title">Touchscreen</string>
-    <string name="game_mode_title">Game mode</string>
-    <string name="game_mode_summary">Force enable over 240Hz sampling rate for all applications</string>
-    <string name="game_mode_warning">May decrease battery life</string>
-
     <!-- Vibrator -->
     <string name="category_vibrator">Vibrator</string>
     <string name="vib_strength_title">System strength</string>
     <string name="vib_strength_summary">Define the intensity of the vibrator</string>
-
-    <!-- Touchscreen Gestures -->
-    <string name="touchscreen_gesture_settings_title">TouchScreen Gestures</string>
-    <string name="touchscreen_gesture_settings_summary">Perform various touchscreen gestures for quick actions</string>
 </resources>
