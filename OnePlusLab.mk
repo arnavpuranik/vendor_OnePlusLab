@@ -14,7 +14,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/OnePlusLab/privapp-permissions-OnePlusLab.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/privapp-permissions-OnePlusLab.xml
 
 PRODUCT_COPY_FILES += \
-    vendor/OnePlusLab/rootdir/etc/init.onepluslab.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/hw/init.onepluslab.rc
+    vendor/OnePlusLab/rootdir/etc/init.onepluslab.rc:$(TARGET_COPY_OUT_SYSTEM)/etc/init/init.onepluslab.rc
 
 # OnePlus Dolby
 PRODUCT_COPY_FILES += \
