@@ -6,6 +6,7 @@ PRODUCT_SOONG_NAMESPACES += \
 
 PRODUCT_PACKAGES += \
     OnePlusLab \
+    TouchGestures \
     DaxUI \
     daxService
 
