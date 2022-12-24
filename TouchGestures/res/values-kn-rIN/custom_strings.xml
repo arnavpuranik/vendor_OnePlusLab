@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Gestures: Touchscreen gestures -->
+    <!-- Gesture: Stylus gestures -->
+    <string name="touchscreen_gesture_action_camera">ಕ್ಯಾಮೆರಾ ತೆರೆ</string>
+    <string name="touchscreen_gesture_action_browser">ಬ್ರೌಸರ್‌ ತೆರೆ</string>
+    <string name="touchscreen_gesture_action_dialer">ಡೈಲರ್ ತೆರೆಯಿರಿ</string>
+    <string name="touchscreen_gesture_action_email">ನಿಮ್ಮ e-ಅಂಚೆಗಳನ್ನು ವೀಕ್ಷಿಸಿ</string>
+    <string name="touchscreen_gesture_action_messages">ಸಂದೇಶಗಳನ್ನು ವೀಕ್ಷಿಸಿ</string>
+    <string name="touchscreen_gesture_action_play_pause_music">ಮುಂದುವರಿ/ವಿರಾಮ ಗುಂಡಿ</string>
+    <string name="touchscreen_gesture_action_previous_track">ಹಿಂದಿನ ಸಂಗೀತ ಸುರುಳಿಗೆ ನಿರ್ದೇಶಿಸು</string>
+    <string name="touchscreen_gesture_action_next_track">ಮುಂದಿನ ಸಂಗೀತ ಸುರುಳಿಗೆ ಹೋಗು</string>
+    <string name="touchscreen_gesture_action_volume_down">ಮಾಧ್ಯಮ ಧ್ವನಿ ಕಡಿಮೆಗೊಳಿಸು</string>
+    <string name="touchscreen_gesture_action_volume_up">ಮಾಧ್ಯಮದ ಶಬ್ದಮಟ್ಟ ಏರಿಸು</string>
+    <string name="touchscreen_gesture_action_ambient_display">ಆವರಿಸಿದ ಪರದೆ</string>
+    <string name="touchscreen_gesture_action_wake_device">ಸಾಧನವನ್ನು ಎಚ್ಚರಗೊಳಿಸು</string>
+</resources>

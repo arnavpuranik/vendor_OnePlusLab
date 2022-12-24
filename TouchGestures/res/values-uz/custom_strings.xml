@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="touchscreen_gesture_action_play_pause_music">Musiqani qoʻyish/to\'xtatish</string>
+    <string name="touchscreen_gesture_action_previous_track">Oldingi musiqiy trekni qoʻyish</string>
+    <string name="touchscreen_gesture_action_next_track">Keyingi musiqiy trekni qoʻyish</string>
+    <string name="touchscreen_gesture_action_volume_down">Media tovushini pasaytirish</string>
+    <string name="touchscreen_gesture_action_volume_up">Media tovushini koʻtarish</string>
+    <string name="touchscreen_gesture_action_ambient_display">Ambient displayni koʻrsatish</string>
+    <string name="touchscreen_gesture_action_wake_device">Ekranni yoqish</string>
+</resources>

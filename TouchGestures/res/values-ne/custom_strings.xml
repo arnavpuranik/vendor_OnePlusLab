@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="touchscreen_gesture_action_play_pause_music">गित बजाउने/रोक्ने</string>
+    <string name="touchscreen_gesture_action_previous_track">अघिल्लो गित बजाउने</string>
+    <string name="touchscreen_gesture_action_next_track">अर्को गित बजाउने</string>
+    <string name="touchscreen_gesture_action_volume_down">ध्वनिको आवाज कम गर्ने</string>
+    <string name="touchscreen_gesture_action_volume_up">ध्वनिको आवाज बढाउने </string>
+    <string name="touchscreen_gesture_action_ambient_display">एम्बिएण्ट डिस्पेले देखाउने</string>
+    <string name="touchscreen_gesture_action_wake_device">मोबाईल लाई खोल्ने</string>
+</resources>

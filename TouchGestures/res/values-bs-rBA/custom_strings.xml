@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Gestures: Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">Geste za dodir</string>
+    <string name="touchscreen_gesture_settings_summary">Izvedite različite geste dodirnog zaslona za brze akcije</string>
+    <string name="touchscreen_gestures_haptic_feedback_title">Povratne informacije</string>
+    <string name="touchscreen_gestures_haptic_feedback_summary">Vibriraj kada je gesta prepoznata</string>
+    <string name="touchscreen_gesture_two_finger_down_swipe_title">Pomičite prstom prema dolje s dva prsta</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_title">Pomičite prema gore s jednim prstom</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Povucite prema gore od tipke home</string>
+    <string name="touchscreen_gesture_one_finger_down_swipe_title">Pomičite prema dolje s jednim prstom</string>
+    <string name="touchscreen_gesture_one_finger_left_swipe_title">Pomičite prema lijevo s jednim prstom</string>
+    <string name="touchscreen_gesture_one_finger_right_swipe_title">Pomičite prema desno s jednim prstom</string>
+    <string name="touchscreen_gesture_up_arrow_title">Nacrtaj \"Λ\"</string>
+    <string name="touchscreen_gesture_down_arrow_title">Nacrtaj \"V\"</string>
+    <string name="touchscreen_gesture_left_arrow_title">Nacrtaj \"&lt;\"</string>
+    <string name="touchscreen_gesture_right_arrow_title">Nacrtaj \"&gt;\"</string>
+    <string name="touchscreen_gesture_letter_c_title">Nacrtaj slovo \"C\"</string>
+    <string name="touchscreen_gesture_letter_e_title">Nacrtaj slovo \"e\"</string>
+    <string name="touchscreen_gesture_letter_o_title">Nacrtaj slovo \"O\"</string>
+    <string name="touchscreen_gesture_letter_m_title">Nacrtaj slovo \"M\"</string>
+    <string name="touchscreen_gesture_letter_s_title">Nacrtaj slovo \"S\"</string>
+    <string name="touchscreen_gesture_letter_v_title">Nacrtaj slovo \"V\"</string>
+    <string name="touchscreen_gesture_letter_w_title">Nacrtaj slovo \"W\"</string>
+    <string name="touchscreen_gesture_letter_z_title">Nacrtaj slovo \"Z\"</string>
+    <string name="touchscreen_gesture_single_tap_title">Jedan dodir</string>
+    <string name="touchscreen_gesture_double_tap_title">Dvostruki dodir</string>
+    <!-- Gesture: Stylus gestures -->
+    <string name="touchscreen_gesture_swipe_up_stylus_title">Povući gore s stylusom</string>
+    <string name="touchscreen_gesture_swipe_down_stylus_title">Povući dolje s stylusom</string>
+    <string name="touchscreen_gesture_swipe_left_stylus_title">Povući lijevo s stylusom</string>
+    <string name="touchscreen_gesture_swipe_right_stylus_title">Povući desno s stylusom</string>
+    <string name="touchscreen_gesture_long_press_stylus_title">Dugo pritisnite s stylusom</string>
+    <string name="touchscreen_gesture_action_dialog_title">Akcija gestama</string>
+    <string name="touchscreen_gesture_action_do_nothing">Ne radi ništa</string>
+    <string name="touchscreen_gesture_action_flashlight">Uključi/isključi svjetiljku</string>
+    <string name="touchscreen_gesture_action_camera">Otvori kameru</string>
+    <string name="touchscreen_gesture_action_browser">Otvori pretraživač</string>
+    <string name="touchscreen_gesture_action_dialer">Otvori biranje</string>
+    <string name="touchscreen_gesture_action_email">Pregledajte svoje e-poruke</string>
+    <string name="touchscreen_gesture_action_messages">Pregled poruka</string>
+    <string name="touchscreen_gesture_action_play_pause_music">Reproduciraj/pauziraj glazbu</string>
+    <string name="touchscreen_gesture_action_previous_track">Reproduciraj prethodnu pjesmu</string>
+    <string name="touchscreen_gesture_action_next_track">Reproduciraj sljedeću pjesmu</string>
+    <string name="touchscreen_gesture_action_volume_down">Smanji jačinu zvuka medija</string>
+    <string name="touchscreen_gesture_action_volume_up">Povećaj jačinu zvuka medija</string>
+    <string name="touchscreen_gesture_action_ambient_display">Prikaži Ambijentalni zaslon</string>
+    <string name="touchscreen_gesture_action_wake_device">Probudi uređaj</string>
+</resources>
